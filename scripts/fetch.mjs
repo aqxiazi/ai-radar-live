@@ -41,7 +41,10 @@ async function summarizeWithAI(item, source) {
   const date = new Date().toISOString().split('T')[0];
   
   // 提取真实摘要用于展示 (前 150 字符)
-  const descPreview = item.description.replace(/"/g, '').substring(0, 150).replace(/\n/g, ' ');
+  let descPreview = item.description.replace(/"/g, '').substring(0, 150).replace(/\n/g, ' ');
+  if (!descPreview || descPreview.length < 10) {
+    descPreview = "点击查看原文以获取详细内容";
+  }
   
   const content = `---
 title: "${item.title.replace(/"/g, '\\"')}"
@@ -54,7 +57,7 @@ affiliateLink: "${item.link}"
 
 ## 简介
 
-${item.description.substring(0, 300)}...
+${item.description.length > 50 ? item.description.substring(0, 300) : "请点击阅读原文查看详细内容。"}...
 
 ## 核心功能
 
