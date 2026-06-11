@@ -34,24 +34,27 @@ function parseRSS(xml) {
 }
 
 // 模拟 LLM 调用 (实际部署时替换为 Jellyfish API)
-async function summarizeWithAI(item) {
+async function summarizeWithAI(item, source) {
   // 这里模拟 AI 生成，实际可接入 OpenAI/Jellyfish
   // 示例：返回结构化的 Markdown
   const slug = item.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
   const date = new Date().toISOString().split('T')[0];
   
+  // 提取真实摘要用于展示 (前 150 字符)
+  const descPreview = item.description.replace(/"/g, '').substring(0, 150).replace(/\n/g, ' ');
+  
   const content = `---
 title: "${item.title.replace(/"/g, '\\"')}"
 date: ${date}
-category: 工具
-description: "自动生成的 AI 工具简介"
-source: AI Daily Radar
+category: "${source.category}"
+description: "${descPreview}..."
+source: "${source.name}"
 affiliateLink: "${item.link}"
 ---
 
 ## 简介
 
-${item.description.substring(0, 200)}...
+${item.description.substring(0, 300)}...
 
 ## 核心功能
 
@@ -79,7 +82,7 @@ async function fetchAndSave() {
       const items = parseRSS(res.data);
       
       for (const item of items.slice(0, 3)) { // 每个源只取前 3 条
-        const { slug, content } = await summarizeWithAI(item);
+        const { slug, content } = await summarizeWithAI(item, source);
         const filePath = path.join(CONTENT_DIR, `${slug}.md`);
         
         if (!fs.existsSync(filePath)) {
