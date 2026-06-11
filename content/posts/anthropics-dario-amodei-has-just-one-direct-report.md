@@ -9,7 +9,7 @@ affiliateLink: "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-ju
 
 ## 简介
 
-If you doubted his genius, doubt no more....
+请点击阅读原文查看详细内容。...
 
 ## 核心功能
 

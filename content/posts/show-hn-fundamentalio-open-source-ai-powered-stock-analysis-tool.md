@@ -1,10 +1,10 @@
 ---
-title: "Show HN: AlfinaAI – AI stock and IPO analysis for retail investors"
+title: "Show HN: Fundamentalio – open-source AI-powered stock analysis tool"
 date: 2026-06-11
 category: "AI"
 description: "点击查看原文以获取详细内容..."
 source: "HackerNews AI"
-affiliateLink: "https://alfina.ai"
+affiliateLink: "https://github.com/DjNero11/fundamentalio"
 ---
 
 ## 简介
@@ -18,4 +18,4 @@ affiliateLink: "https://alfina.ai"
 
 > 💡 **提示**: 通过上方链接访问官网，体验最新功能。
 
-[阅读原文](https://alfina.ai)
+[阅读原文](https://github.com/DjNero11/fundamentalio)

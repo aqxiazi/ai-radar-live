@@ -115,9 +115,17 @@
     "title": "Show HN",
     "date": "2026-06-11",
     "category": "AI",
-    "description": "...",
+    "description": "点击查看原文以获取详细内容...",
     "source": "HackerNews AI",
     "affiliateLink": "https://alfina.ai"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-11",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/DjNero11/fundamentalio"
   },
   {
     "title": "Show HN",
@@ -150,6 +158,14 @@
     "description": "自动生成的 AI 工具简介",
     "source": "AI Daily Radar",
     "affiliateLink": "https://tailpanic.com"
+  },
+  {
+    "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",
+    "date": "2026-06-11",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5"
   },
   {
     "title": "WSP WordPress MCP – Connect AI Coding Agents to WordPress",
