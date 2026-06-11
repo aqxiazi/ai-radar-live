@@ -23,7 +23,7 @@
       <NuxtLink
         v-for="post in filteredPosts"
         :key="post.slug"
-        :to="post.link"
+        :to="post.affiliateLink"
         target="_blank"
         class="block p-4 rounded-xl border border-gray-800 hover:border-cyan-700 transition group"
       >
