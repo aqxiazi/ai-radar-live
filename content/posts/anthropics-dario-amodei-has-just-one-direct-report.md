@@ -1,9 +1,9 @@
 ---
 title: "Anthropics Dario Amodei has just one direct report"
 date: 2026-06-11
-category: 工具
-description: "自动生成的 AI 工具简介"
-source: AI Daily Radar
+category: "资讯"
+description: "If you doubted his genius, doubt no more...."
+source: "TechCrunch AI"
 affiliateLink: "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/"
 ---
 

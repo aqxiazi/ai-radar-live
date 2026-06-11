@@ -1,9 +1,9 @@
 ---
 title: "Opendoors India exit is fueling a bigger conversation about AI and outsourcing"
 date: 2026-06-11
-category: 工具
-description: "自动生成的 AI 工具简介"
-source: AI Daily Radar
+category: "资讯"
+description: "The decision comes as India emerges as the world’s largest GCC market...."
+source: "TechCrunch AI"
 affiliateLink: "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/"
 ---
 

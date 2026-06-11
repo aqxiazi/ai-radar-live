@@ -1,9 +1,9 @@
 ---
 title: "Shadow AI threat's growth affecting healthtech's growth"
 date: 2026-06-11
-category: 工具
-description: "自动生成的 AI 工具简介"
-source: AI Daily Radar
+category: "AI"
+description: "..."
+source: "HackerNews AI"
 affiliateLink: "https://www.verax.ai/blog/shadow-ai-healthtech-deals"
 ---
 
