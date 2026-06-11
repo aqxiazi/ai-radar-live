@@ -1,60 +1,47 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy
 
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # 每天 08:00 北京时间触发部署
+    - cron: '0 0 * * *'  # 每天 08:00 北京时间
 
 permissions:
-  contents: write  # 允许自动抓取脚本写回代码
+  contents: write
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
-  # 1. Fetch new content
-  fetch:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Setup Node.js
         uses: actions/setup-node@v4
-        with: { node-version: '20', cache: 'npm' }
-      - run: npm ci
-      - run: npm run fetch
+        with: { node-version: '20' }
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Fetch latest content
+        run: npm run fetch
+        
       - name: Commit new content
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add content/posts/
+          git add content/posts/ public/posts.json
           git diff --cached --quiet || git commit -m "🤖 Auto-fetch: $(date +%F)"
           git push
 
-  # 2. Build & Deploy
-  deploy:
-    needs: fetch
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with: { node-version: '20', cache: 'npm' }
-      - run: npm ci
       - name: Build static site
         run: npm run generate
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
+
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with: { path: '.output/public' }
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
