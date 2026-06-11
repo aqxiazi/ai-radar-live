@@ -11,7 +11,7 @@ if (!fs.existsSync(PUBLIC_DIR)) fs.mkdirSync(PUBLIC_DIR, { recursive: true });
 
 const RSS_SOURCES = [
   { name: 'HackerNews AI', url: 'https://hnrss.org/newest?q=AI&count=10', category: 'AI' },
-  { name: 'HackerNews Best', url: 'https://hnrss.org/best?count=10', category: '开源' },
+  { name: 'HackerNews Top', url: 'https://news.ycombinator.com/rss', category: '热门' },
   { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: '资讯' },
 ];
 
