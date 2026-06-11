@@ -85,10 +85,9 @@ async function fetchAndSave() {
         const { slug, content } = await summarizeWithAI(item, source);
         const filePath = path.join(CONTENT_DIR, `${slug}.md`);
         
-        if (!fs.existsSync(filePath)) {
-          fs.writeFileSync(filePath, content, 'utf-8');
-          console.log(`✅ 已保存: ${slug}`);
-        }
+        // 总是更新内容，确保摘要和分类是最新的
+        fs.writeFileSync(filePath, content, 'utf-8');
+        console.log(`✅ 已保存/更新: ${slug}`);
       }
     } catch (err) {
       console.error(`❌ ${source.name} 抓取失败:`, err.message);
