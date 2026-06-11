@@ -4,16 +4,16 @@ import axios from 'axios';
 import TurndownService from 'turndown';
 
 const turndown = new TurndownService();
+const CONTENT_DIR = path.join('content', 'posts');
+const PUBLIC_DIR = path.join('public');
+if (!fs.existsSync(CONTENT_DIR)) fs.mkdirSync(CONTENT_DIR, { recursive: true });
+if (!fs.existsSync(PUBLIC_DIR)) fs.mkdirSync(PUBLIC_DIR, { recursive: true });
 
-// 配置 RSS 源
 const RSS_SOURCES = [
   { name: 'HackerNews AI', url: 'https://hnrss.org/newest?q=AI&count=10', category: 'AI' },
   { name: 'HackerNews Best', url: 'https://hnrss.org/best?count=10', category: '开源' },
   { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: '资讯' },
 ];
-
-const CONTENT_DIR = path.join('content', 'posts');
-if (!fs.existsSync(CONTENT_DIR)) fs.mkdirSync(CONTENT_DIR, { recursive: true });
 
 // 简单的 RSS 解析器
 function parseRSS(xml) {
@@ -93,6 +93,24 @@ async function fetchAndSave() {
   }
   
   console.log('🎉 抓取完成！');
+
+  // 生成 public/posts.json 供前端直接读取
+  const posts = [];
+  for (const file of fs.readdirSync(CONTENT_DIR)) {
+    const content = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf-8');
+    const match = content.match(/---\n([\s\S]*?)---/);
+    if (match) {
+      const meta = {};
+      match[1].split('\n').forEach(line => {
+        const [k, v] = line.split(': ');
+        if (k && v) meta[k.trim()] = v.replace(/"/g, '').trim();
+      });
+      posts.push(meta);
+    }
+  }
+  posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'posts.json'), JSON.stringify(posts, null, 2), 'utf-8');
+  console.log(`📄 已生成 ${PUBLIC_DIR}/posts.json 包含 ${posts.length} 篇文章`);
 }
 
 fetchAndSave();
