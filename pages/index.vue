@@ -52,7 +52,8 @@ const filteredPosts = computed(() => {
   return posts.value.filter(p => p.category === filter.value)
 })
 
-async function formatDate(dateStr) {
+// 同步格式化日期
+function formatDate(dateStr) {
   if (!dateStr) return ''
   return new Date(dateStr).toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' })
 }
