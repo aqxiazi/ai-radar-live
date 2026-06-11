@@ -55,8 +55,8 @@ async function formatDate(dateStr) {
   return new Date(dateStr).toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' })
 }
 
-// 加载文章数据
-const { data } = await useAsyncData('posts', () => queryContent('/').sort({ date: -1 }).find())
+// 加载文章数据 (修改路径以匹配 content/posts 目录)
+const { data } = await useAsyncData('posts', () => queryContent('/posts').sort({ date: -1 }).find())
 posts.value = data.value || []
 
 // 提取分类
