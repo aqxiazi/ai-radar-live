@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   },
   ssr: false, // 改为静态站点模式，适配 GitHub Pages
   app: {
-    baseURL: '/ai-daily-radar/', // GitHub Pages 仓库名路径
+    baseURL: '/ai-radar-live/', // GitHub Pages 仓库名路径
     head: {
       title: 'AI Daily Radar - 每日 AI 前沿',
       meta: [
