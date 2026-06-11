@@ -7,7 +7,7 @@ export default defineNuxtConfig({
       toc: { depth: 3, searchDepth: 3 },
     },
   },
-  ssr: false, // 改为静态站点模式，适配 GitHub Pages
+  ssr: true, // 恢复 SSR 模式，确保内容被预渲染到 HTML 中
   app: {
     baseURL: '/ai-radar-live/', // GitHub Pages 仓库名路径
     head: {
