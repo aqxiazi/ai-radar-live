@@ -1,5 +1,101 @@
 [
   {
+    "title": "Ask HN",
+    "date": "2026-06-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=48499826"
+  },
+  {
+    "title": "Claude Fable is relentlessly proactive",
+    "date": "2026-06-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48498573)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/"
+  },
+  {
+    "title": "Engineers aren't afraid of AI – they're afraid of becoming junior again",
+    "date": "2026-06-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/"
+  },
+  {
+    "title": "Fylun.ai – All-in-one AI workspace (chat, notes, apps, automation, search)",
+    "date": "2026-06-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://fylun.ai"
+  },
+  {
+    "title": "Jeff Bezoss Prometheus raises $12B to build an artificial general engineer for the physical world",
+    "date": "2026-06-12",
+    "category": "资讯",
+    "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+  },
+  {
+    "title": "Largest AI Data Center",
+    "date": "2026-06-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://epoch.ai/data-insights/largest-data-center-compute"
+  },
+  {
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "date": "2026-06-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48498385)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48490024)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://brew.sh/2026/06/11/homebrew-6.0.0/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://kickbacks.ai"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/DevMando/MandoCode"
+  },
+  {
+    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "date": "2026-06-12",
+    "category": "资讯",
+    "description": "Wits its official share pricing announcement, SpaceX's IPO has begun....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
+  },
+  {
+    "title": "Theker just raised $85M to build the factory robot that doesnt specialize in anything",
+    "date": "2026-06-12",
+    "category": "资讯",
+    "description": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
+  },
+  {
     "title": "AI agent runs amok in Fedora and elsewhere",
     "date": "2026-06-11",
     "category": "热门",
