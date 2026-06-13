@@ -1,5 +1,5 @@
 ---
-title: "Open Source AI Must Win"
+title: "Open source AI must win"
 date: 2026-06-13
 category: "热门"
 description: "[Comments](https://news.ycombinator.com/item?id=48511908)..."
