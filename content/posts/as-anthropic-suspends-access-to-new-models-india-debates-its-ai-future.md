@@ -1,6 +1,6 @@
 ---
 title: "As Anthropic suspends access to new models, India debates its AI future"
-date: 2026-06-14
+date: 2026-06-15
 category: "资讯"
 description: "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions...."
 source: "TechCrunch AI"

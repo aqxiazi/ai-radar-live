@@ -1,6 +1,6 @@
 ---
 title: "Meta reportedly moves to unwind $2B Manus deal after Beijings demand"
-date: 2026-06-14
+date: 2026-06-15
 category: "资讯"
 description: "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed...."
 source: "TechCrunch AI"
