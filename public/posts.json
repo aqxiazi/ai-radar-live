@@ -1,5 +1,101 @@
 [
   {
+    "title": "AI Agents Don't Need SMS APIs. They Need Infrastructure",
+    "date": "2026-06-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://blog.bridgexapi.io/from-rest-apis-to-mcp-making-messaging-infrastructure-ai-native"
+  },
+  {
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "date": "2026-06-15",
+    "category": "资讯",
+    "description": "Startups are trying to ride that SpaceX IPO wave....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
+  },
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "date": "2026-06-15",
+    "category": "资讯",
+    "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+  },
+  {
+    "title": "Domain-Specific AI for Pharma, Biotech and Medical Professionals",
+    "date": "2026-06-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.noah.bio/"
+  },
+  {
+    "title": "Even more batteries included with Emacs",
+    "date": "2026-06-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48535886)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://karthinks.com/software/even-more-batteries-included-with-emacs/"
+  },
+  {
+    "title": "Fugee, an agentic AI assistant for displaced people and asylum seekers [video]",
+    "date": "2026-06-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=PYGzJZj7LfM"
+  },
+  {
+    "title": "Google sues alleged operators of an AI-powered phishing kit",
+    "date": "2026-06-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/"
+  },
+  {
+    "title": "Is using AI in school cheating?",
+    "date": "2026-06-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.totalnoise.ai/blog/educationandai/"
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijings demand",
+    "date": "2026-06-15",
+    "category": "资讯",
+    "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/shadowhunter-92/agentbridge"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48529990)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/tamnd/kage"
+  },
+  {
+    "title": "Your ePub Is fine",
+    "date": "2026-06-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48533848)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/"
+  },
+  {
     "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
     "date": "2026-06-14",
     "category": "热门",
@@ -8,28 +104,12 @@
     "affiliateLink": "https://juniperspring.org/posts/honda-evil-valet/"
   },
   {
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "date": "2026-06-14",
-    "category": "资讯",
-    "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
-  },
-  {
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "date": "2026-06-14",
     "category": "资讯",
     "description": "Once again, AI proves to be an unreliable source of information about AI....",
     "source": "TechCrunch AI",
     "affiliateLink": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
-  },
-  {
-    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijings demand",
-    "date": "2026-06-14",
-    "category": "资讯",
-    "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
   },
   {
     "title": "Noise infusion banned from statistical products published by Census Bureau",
