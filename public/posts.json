@@ -1,5 +1,85 @@
 [
   {
+    "title": "A backdoor in a LinkedIn job offer",
+    "date": "2026-06-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48546294)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://roman.pt/posts/linkedin-backdoor/"
+  },
+  {
+    "title": "AI efficiency gains come at a high energy cost",
+    "date": "2026-06-16",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.ft.com/content/7f1c81ac-775b-4f52-a650-7804e4734d5b"
+  },
+  {
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "date": "2026-06-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48547985)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.richardosgood.com/posts/banned-book-library/"
+  },
+  {
+    "title": "EU AI",
+    "date": "2026-06-16",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://pleias.ai/blog/fable-eu"
+  },
+  {
+    "title": "EU Icons for labelling AI-generated content",
+    "date": "2026-06-16",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content"
+  },
+  {
+    "title": "Metas new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "date": "2026-06-16",
+    "category": "资讯",
+    "description": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+  },
+  {
+    "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+    "date": "2026-06-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48549918)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
+  },
+  {
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Googles Israel, ICE ties",
+    "date": "2026-06-16",
+    "category": "资讯",
+    "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/"
+  },
+  {
+    "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+    "date": "2026-06-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48550693)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419"
+  },
+  {
+    "title": "The US governments Anthropic models ban was never about an AI jailbreak",
+    "date": "2026-06-16",
+    "category": "资讯",
+    "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
+  },
+  {
     "title": "AI Agents Don't Need SMS APIs. They Need Infrastructure",
     "date": "2026-06-15",
     "category": "AI",
