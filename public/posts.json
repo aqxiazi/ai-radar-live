@@ -1,5 +1,109 @@
 [
   {
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "date": "2026-06-17",
+    "category": "资讯",
+    "description": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The l...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
+  },
+  {
+    "title": "Anthropics latest feud with the Trump admin may actually help it, sales data suggests",
+    "date": "2026-06-17",
+    "category": "资讯",
+    "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggest...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+  },
+  {
+    "title": "GrapheneOS has been ported to Android 17",
+    "date": "2026-06-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48561654)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"
+  },
+  {
+    "title": "How agentic AI is rewiring Amazon's teams and upending its traditions",
+    "date": "2026-06-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.geekwire.com/2026/how-agentic-ai-is-rewiring-amazons-teams-and-upending-its-traditions/"
+  },
+  {
+    "title": "How AI memory systems break at scale",
+    "date": "2026-06-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://tenureai.dev/writing/how-ai-memory-breaks-at-scale/"
+  },
+  {
+    "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+    "date": "2026-06-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48565130)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn"
+  },
+  {
+    "title": "Malaysia's AI agent-powered messaging app Respond.io raises $62.5M",
+    "date": "2026-06-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/"
+  },
+  {
+    "title": "Running local models is good now",
+    "date": "2026-06-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48555993)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://whissle.ai/gateway"
+  },
+  {
+    "title": "SpaceX to buy Cursor for $60B",
+    "date": "2026-06-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48553224)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"
+  },
+  {
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "date": "2026-06-17",
+    "category": "资讯",
+    "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/"
+  },
+  {
+    "title": "Stop making AI looking landing pages",
+    "date": "2026-06-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.aibrandkits.com"
+  },
+  {
     "title": "A backdoor in a LinkedIn job offer",
     "date": "2026-06-16",
     "category": "热门",
