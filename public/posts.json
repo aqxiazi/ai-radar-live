@@ -1,5 +1,117 @@
 [
   {
+    "title": "AI DevKit – The control plane for AI coding agents",
+    "date": "2026-06-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://ai-devkit.com/"
+  },
+  {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "date": "2026-06-19",
+    "category": "资讯",
+    "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush marches on....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
+  },
+  {
+    "title": "Applied AI Engineer/ Product Builder/ Data Science",
+    "date": "2026-06-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=48594452"
+  },
+  {
+    "title": "Ask HN",
+    "date": "2026-06-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=48594425"
+  },
+  {
+    "title": "Flourish Labs",
+    "date": "2026-06-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://flourishlabs.ai/flourish_wired_article.pdf"
+  },
+  {
+    "title": "How Japan&#x27;s railways stayed one while splitting apart",
+    "date": "2026-06-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48570730)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://arun.is/blog/jr-logo/"
+  },
+  {
+    "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
+    "date": "2026-06-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48594592)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885"
+  },
+  {
+    "title": "Let&#x27;s Encrypt has been down most of today",
+    "date": "2026-06-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48594715)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://letsencrypt.status.io/#2026"
+  },
+  {
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "date": "2026-06-19",
+    "category": "资讯",
+    "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
+  },
+  {
+    "title": "Source",
+    "date": "2026-06-19",
+    "category": "资讯",
+    "description": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
+  },
+  {
+    "title": "To study how chips work, MIT researchers built their own operating system",
+    "date": "2026-06-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48543311)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610"
+  },
+  {
+    "title": "White House talks with Anthropic shift to setting AI security rules",
+    "date": "2026-06-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758"
+  },
+  {
+    "title": "Why do politicians want AI to go faster?",
+    "date": "2026-06-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.irishtimes.com/technology/big-tech/2026/04/02/why-do-politicians-want-ai-to-go-faster/"
+  },
+  {
+    "title": "Zero-Touch OAuth for MCP",
+    "date": "2026-06-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48592163)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
+  },
+  {
     "title": "After unveiling ridiculously expensive AR glasses, Snaps stock takes a dive",
     "date": "2026-06-18",
     "category": "资讯",
