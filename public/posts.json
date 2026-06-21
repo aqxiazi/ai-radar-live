@@ -1,5 +1,85 @@
 [
   {
+    "title": "Building Reliable Agentic AI Systems",
+    "date": "2026-06-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://martinfowler.com/articles/reliable-llm-bayer.html"
+  },
+  {
+    "title": "Developers don&#x27;t understand CORS (2019)",
+    "date": "2026-06-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48614844)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://fosterelli.co/developers-dont-understand-cors"
+  },
+  {
+    "title": "Epoll vs. io_uring in Linux",
+    "date": "2026-06-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48613872)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://sibexi.co/posts/epoll-vs-io_uring/"
+  },
+  {
+    "title": "In the Weights is your new AI-centric vanity search",
+    "date": "2026-06-21",
+    "category": "资讯",
+    "description": "So ... what's your In the Weights score?...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+  },
+  {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "date": "2026-06-21",
+    "category": "资讯",
+    "description": "Jumper isn't the only big name leaving Google DeepMind....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+  },
+  {
+    "title": "Public Service Announcement",
+    "date": "2026-06-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.satisfice.com/blog/archives/488148"
+  },
+  {
+    "title": "Renting a sewing machine from the library",
+    "date": "2026-06-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48613755)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://nivroo.com"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48608570)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://townsquare.cauenapier.com/"
+  },
+  {
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "date": "2026-06-21",
+    "category": "资讯",
+    "description": "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+  },
+  {
     "title": "Data Compression Explained",
     "date": "2026-06-20",
     "category": "热门",
