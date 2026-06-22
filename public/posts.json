@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI Watchdog",
+    "date": "2026-06-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.theatlantic.com/category/ai-watchdog/"
+  },
+  {
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "date": "2026-06-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48622778)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://apertvs.ai/"
+  },
+  {
+    "title": "Beyond Siri",
+    "date": "2026-06-22",
+    "category": "资讯",
+    "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/"
+  },
+  {
+    "title": "Did my old job only exist because of fraud?",
+    "date": "2026-06-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48622867)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"
+  },
+  {
+    "title": "Help I accidentally a wigglegram",
+    "date": "2026-06-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48605561)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://lmao.center/blog/wiggle-accidents/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.typevia.com/"
+  },
+  {
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "date": "2026-06-22",
+    "category": "资讯",
+    "description": "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+  },
+  {
+    "title": "When AI Agents Do the Work, What Do We Lose?",
+    "date": "2026-06-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://milvus.io/blog/when-ai-agents-do-the-work-what-do-we-lose.md"
+  },
+  {
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "date": "2026-06-22",
+    "category": "资讯",
+    "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for th...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/"
+  },
+  {
     "title": "Building Reliable Agentic AI Systems",
     "date": "2026-06-21",
     "category": "AI",
@@ -70,14 +142,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=48608570)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://townsquare.cauenapier.com/"
-  },
-  {
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "date": "2026-06-21",
-    "category": "资讯",
-    "description": "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
   },
   {
     "title": "Data Compression Explained",
