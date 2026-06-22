@@ -1,6 +1,6 @@
 ---
 title: "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’"
-date: 2026-06-21
+date: 2026-06-22
 category: "资讯"
 description: "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”..."
 source: "TechCrunch AI"
