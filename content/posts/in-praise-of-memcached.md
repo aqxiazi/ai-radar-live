@@ -1,5 +1,5 @@
 ---
-title: "In Praise of Memcached"
+title: "In praise of memcached"
 date: 2026-06-23
 category: "热门"
 description: "[Comments](https://news.ycombinator.com/item?id=48638886)..."

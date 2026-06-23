@@ -1,5 +1,61 @@
 [
   {
+    "title": "1,700 Free Online Courses from Top Universities",
+    "date": "2026-06-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48639184)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.openculture.com/freeonlinecourses"
+  },
+  {
+    "title": "In praise of memcached",
+    "date": "2026-06-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48638886)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://jchri.st/blog/in-praise-of-memcached/"
+  },
+  {
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "date": "2026-06-23",
+    "category": "资讯",
+    "description": "OpenAI is attempting to tackle the security issues of the open source software community....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+  },
+  {
+    "title": "Runing GLM-5.2 on local hardware",
+    "date": "2026-06-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48636377)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://unsloth.ai/docs/models/glm-5.2"
+  },
+  {
+    "title": "Steam Machine launches today",
+    "date": "2026-06-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48632884)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
+  },
+  {
+    "title": "The AI world is getting loopy",
+    "date": "2026-06-23",
+    "category": "资讯",
+    "description": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
+  },
+  {
+    "title": "The running list",
+    "date": "2026-06-23",
+    "category": "资讯",
+    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated f...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+  },
+  {
     "title": "AI Watchdog",
     "date": "2026-06-22",
     "category": "AI",
