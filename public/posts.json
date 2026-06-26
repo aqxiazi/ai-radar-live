@@ -1,5 +1,101 @@
 [
   {
+    "title": "Agent Zero – A full Docker Linux system for your AI agent",
+    "date": "2026-06-26",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/agent0ai/agent-zero"
+  },
+  {
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "date": "2026-06-26",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48675179)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://scrollprize.org/firstscroll"
+  },
+  {
+    "title": "Anthropics Claude is winning over paid consumers, a market owned by ChatGPT",
+    "date": "2026-06-26",
+    "category": "资讯",
+    "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
+  },
+  {
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "date": "2026-06-26",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48676795)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
+  },
+  {
+    "title": "Building domain-specific AI chatbots with Claude",
+    "date": "2026-06-26",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://gregwilson.tech/building-domain-specific-ai-chatbots"
+  },
+  {
+    "title": "Jim Keller",
+    "date": "2026-06-26",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.eetimes.com/jim-keller-on-tenstorrents-blackhole-scaling-and-ipo-ambitions/"
+  },
+  {
+    "title": "LogiGate",
+    "date": "2026-06-26",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/Les-Senters/Logigate-architecture"
+  },
+  {
+    "title": "No Bailouts for Big Tech Billionaires",
+    "date": "2026-06-26",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.openmarketsinstitute.org/publications/no-bailouts-for-big-tech-billionaires-policies-for-when-the-ai-bubble-bursts"
+  },
+  {
+    "title": "Om Malik has died",
+    "date": "2026-06-26",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48678852)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://om.co/2026/06/24/1966-2026/"
+  },
+  {
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "date": "2026-06-26",
+    "category": "资讯",
+    "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-26",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/varmabudharaju/shotlist"
+  },
+  {
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "date": "2026-06-26",
+    "category": "资讯",
+    "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+  },
+  {
     "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "date": "2026-06-25",
     "category": "热门",
