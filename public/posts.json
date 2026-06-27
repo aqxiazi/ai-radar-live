@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI Erodes a Legacy of Reading",
+    "date": "2026-06-27",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading"
+  },
+  {
+    "title": "Love Conquers Fear",
+    "date": "2026-06-27",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5"
+  },
+  {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "date": "2026-06-27",
+    "category": "资讯",
+    "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "date": "2026-06-27",
+    "category": "资讯",
+    "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
+  },
+  {
+    "title": "Previewing GPT‑5.6 Sol",
+    "date": "2026-06-27",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48689028)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openai.com/index/previewing-gpt-5-6-sol/"
+  },
+  {
+    "title": "Threats to US payment rails helped trigger Bessent's AI worries",
+    "date": "2026-06-27",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails"
+  },
+  {
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "date": "2026-06-27",
+    "category": "资讯",
+    "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+  },
+  {
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "date": "2026-06-27",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48692995)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
+  },
+  {
+    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "date": "2026-06-27",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48692946)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed"
+  },
+  {
     "title": "Agent Zero – A full Docker Linux system for your AI agent",
     "date": "2026-06-26",
     "category": "AI",
