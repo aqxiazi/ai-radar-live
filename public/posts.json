@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI Berkshire",
+    "date": "2026-06-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/xbtlin/ai-berkshire"
+  },
+  {
+    "title": "AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off",
+    "date": "2026-06-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers"
+  },
+  {
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "date": "2026-06-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48703258)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md"
+  },
+  {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "date": "2026-06-28",
+    "category": "资讯",
+    "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+  },
+  {
+    "title": "I wrote a free book about Scripture, AI, and language",
+    "date": "2026-06-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://wordnamefire.com/"
+  },
+  {
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "date": "2026-06-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48703759)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-06-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48703412)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://decomp-academy.dev"
+  },
+  {
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musks orbital data center hype",
+    "date": "2026-06-28",
+    "category": "资讯",
+    "description": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/"
+  },
+  {
+    "title": "The fittest founder in the room got cancer. Heres how he used AI to fight back.",
+    "date": "2026-06-28",
+    "category": "资讯",
+    "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — int...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
+  },
+  {
     "title": "AI Erodes a Legacy of Reading",
     "date": "2026-06-27",
     "category": "AI",
