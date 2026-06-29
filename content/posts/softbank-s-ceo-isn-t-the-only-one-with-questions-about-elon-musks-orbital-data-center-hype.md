@@ -1,6 +1,6 @@
 ---
 title: "SoftBank’s CEO isn’t the only one with questions about Elon Musks orbital data center hype"
-date: 2026-06-28
+date: 2026-06-29
 category: "资讯"
 description: "Not everyone is buying Elon Musk’s vision for orbital data centers...."
 source: "TechCrunch AI"
