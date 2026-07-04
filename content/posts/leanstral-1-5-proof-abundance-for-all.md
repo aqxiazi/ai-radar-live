@@ -1,5 +1,5 @@
 ---
-title: "Leanstral 1.5: Proof Abundance for All"
+title: "Leanstral 1.5: Proof abundance for all"
 date: 2026-07-04
 category: "热门"
 description: "[Comments](https://news.ycombinator.com/item?id=48780801)..."
