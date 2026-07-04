@@ -1,6 +1,6 @@
 ---
 title: "Mark Zuckerberg tells staff that AI agents havent progressed as quickly as hed hoped"
-date: 2026-07-03
+date: 2026-07-04
 category: "资讯"
 description: "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated...."
 source: "TechCrunch AI"
