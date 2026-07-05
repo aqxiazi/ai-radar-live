@@ -1,5 +1,85 @@
 [
   {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "date": "2026-07-05",
+    "category": "资讯",
+    "description": "Alibaba has reportedly classified Claude Code as high-risk software....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+  },
+  {
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "date": "2026-07-05",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48788283)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main"
+  },
+  {
+    "title": "Deterministic AI Auditing",
+    "date": "2026-07-05",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://claude.ai/new"
+  },
+  {
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "date": "2026-07-05",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48789428)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/openai/codex/issues/30364"
+  },
+  {
+    "title": "If you&#x27;re a button, you have one job",
+    "date": "2026-07-05",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48790689)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/"
+  },
+  {
+    "title": "In AI-exposed jobs, the youngest workers are losing ground",
+    "date": "2026-07-05",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/"
+  },
+  {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "date": "2026-07-05",
+    "category": "资讯",
+    "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+  },
+  {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "date": "2026-07-05",
+    "category": "资讯",
+    "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+  },
+  {
+    "title": "Scientists reverse brain aging, with a nasal spray",
+    "date": "2026-07-05",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48790066)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/"
+  },
+  {
+    "title": "The tool layer for developers and AI agents",
+    "date": "2026-07-05",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.utilix.tech/"
+  },
+  {
     "title": "Giant trees have no trouble pumping water to top branches",
     "date": "2026-07-04",
     "category": "热门",
