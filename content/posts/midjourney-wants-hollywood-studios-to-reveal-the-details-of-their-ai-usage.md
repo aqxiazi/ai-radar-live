@@ -1,6 +1,6 @@
 ---
 title: "Midjourney wants Hollywood studios to reveal the details of their AI usage"
-date: 2026-07-05
+date: 2026-07-06
 category: "资讯"
 description: "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves...."
 source: "TechCrunch AI"

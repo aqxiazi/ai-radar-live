@@ -1,6 +1,6 @@
 ---
 title: "New Google commercial imagines a Declaration of Independence written with help from AI"
-date: 2026-07-05
+date: 2026-07-06
 category: "资讯"
 description: "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Go..."
 source: "TechCrunch AI"
