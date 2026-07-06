@@ -1,5 +1,85 @@
 [
   {
+    "title": "Al Vigier",
+    "date": "2026-07-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48799256)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
+  },
+  {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "date": "2026-07-06",
+    "category": "资讯",
+    "description": "These may be the last days of Amazon’s Mechanical Turk....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+  },
+  {
+    "title": "Cewsco – a multimodal AI assistant powered by Dravik",
+    "date": "2026-07-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://cewsco.com/"
+  },
+  {
+    "title": "GPT-5.6 Sol Ultra will be in Codex",
+    "date": "2026-07-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48799614)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://twitter.com/thsottiaux/status/2073933490513752151"
+  },
+  {
+    "title": "Has_not_been_viewed_much",
+    "date": "2026-07-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48799155)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://iamwillwang.com/notes/has-not-been-viewed-much/"
+  },
+  {
+    "title": "How AI Poisons Creativity [video]",
+    "date": "2026-07-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=WeCSzEtZcUw"
+  },
+  {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "date": "2026-07-06",
+    "category": "资讯",
+    "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+  },
+  {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "date": "2026-07-06",
+    "category": "资讯",
+    "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+  },
+  {
+    "title": "OpenPrinter",
+    "date": "2026-07-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48797916)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.opentools.studio/"
+  },
+  {
+    "title": "Technical Report on the Pangram AI-Generated Text Classifier (2024)",
+    "date": "2026-07-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arxiv.org/abs/2402.14873"
+  },
+  {
     "title": "Alibaba reportedly bans employees from using Claude Code",
     "date": "2026-07-05",
     "category": "资讯",
@@ -46,22 +126,6 @@
     "description": "点击查看原文以获取详细内容...",
     "source": "HackerNews AI",
     "affiliateLink": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/"
-  },
-  {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "date": "2026-07-05",
-    "category": "资讯",
-    "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
-  },
-  {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "date": "2026-07-05",
-    "category": "资讯",
-    "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
   },
   {
     "title": "Scientists reverse brain aging, with a nasal spray",
