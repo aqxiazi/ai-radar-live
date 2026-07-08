@@ -1,5 +1,61 @@
 [
   {
+    "title": "GAO",
+    "date": "2026-07-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48824826)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.gao.gov/products/gao-26-108193"
+  },
+  {
+    "title": "Is The Economist Always Wrong?",
+    "date": "2026-07-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48826703)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong"
+  },
+  {
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "date": "2026-07-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48821576)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
+  },
+  {
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "date": "2026-07-08",
+    "category": "资讯",
+    "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+  },
+  {
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "date": "2026-07-08",
+    "category": "资讯",
+    "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+  },
+  {
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "date": "2026-07-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48825749)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://kb.cert.org/vuls/id/213560"
+  },
+  {
+    "title": "Why the rise of open source AI isnt hurting Anthropic  yet",
+    "date": "2026-07-08",
+    "category": "资讯",
+    "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
+  },
+  {
     "title": "AI's Volatile Power Use Tests Grid Limits",
     "date": "2026-07-07",
     "category": "AI",
