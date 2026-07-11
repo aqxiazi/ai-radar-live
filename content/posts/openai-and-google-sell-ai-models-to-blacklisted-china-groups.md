@@ -1,10 +1,10 @@
 ---
-title: "AI models' values are different from most people's"
+title: "OpenAI and Google sell AI models to blacklisted China groups"
 date: 2026-07-11
 category: "AI"
 description: "点击查看原文以获取详细内容..."
 source: "HackerNews AI"
-affiliateLink: "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples"
+affiliateLink: "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f"
 ---
 
 ## 简介
@@ -18,4 +18,4 @@ affiliateLink: "https://www.economist.com/briefing/2026/06/25/ai-models-values-a
 
 > 💡 **提示**: 通过上方链接访问官网，体验最新功能。
 
-[阅读原文](https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples)
+[阅读原文](https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f)
