@@ -1,5 +1,93 @@
 [
   {
+    "title": "A dock that wakes up reliably",
+    "date": "2026-07-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48877269)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://fabiensanglard.net/tb4/index.html"
+  },
+  {
+    "title": "A pure scheme web programming tool",
+    "date": "2026-07-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48877314)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://goeteia.dev"
+  },
+  {
+    "title": "AI notetakers promise easy meeting recaps, but some question their use",
+    "date": "2026-07-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "date": "2026-07-12",
+    "category": "资讯",
+    "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+  },
+  {
+    "title": "Dismissive Dan's Review of the Overplane AI Coding Harness",
+    "date": "2026-07-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.overplane.dev/overview/dan/"
+  },
+  {
+    "title": "I find AI roleplay therapeutic",
+    "date": "2026-07-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks"
+  },
+  {
+    "title": "Mesh LLM",
+    "date": "2026-07-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48876505)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.iroh.computer/blog/mesh-llm"
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "date": "2026-07-12",
+    "category": "资讯",
+    "description": "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way, the com...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+  },
+  {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "date": "2026-07-12",
+    "category": "资讯",
+    "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-07-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48875377)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://antjs.org"
+  },
+  {
+    "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+    "date": "2026-07-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48877668)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
+  },
+  {
     "title": "AI makes Pompeii victim's final moments look real",
     "date": "2026-07-11",
     "category": "AI",
@@ -24,14 +112,6 @@
     "affiliateLink": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"
   },
   {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "date": "2026-07-11",
-    "category": "资讯",
-    "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-  },
-  {
     "title": "Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows",
     "date": "2026-07-11",
     "category": "热门",
@@ -46,14 +126,6 @@
     "description": "点击查看原文以获取详细内容...",
     "source": "HackerNews AI",
     "affiliateLink": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos"
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "date": "2026-07-11",
-    "category": "资讯",
-    "description": "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way, the com...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
   },
   {
     "title": "Open source AI matters more than ever, according to Hugging Faces Clem Delangue",
