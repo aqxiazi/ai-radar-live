@@ -1,6 +1,6 @@
 ---
 title: "Apple sues OpenAI over alleged trade secret theft"
-date: 2026-07-11
+date: 2026-07-12
 category: "资讯"
 description: "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee...."
 source: "TechCrunch AI"

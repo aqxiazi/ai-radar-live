@@ -1,6 +1,6 @@
 ---
 title: "Meta removes controversial AI feature on Instagram after backlash"
-date: 2026-07-11
+date: 2026-07-12
 category: "资讯"
 description: "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way, the com..."
 source: "TechCrunch AI"

@@ -1,0 +1,21 @@
+---
+title: "OpenAI bets on families as ChatGPT goes deeper into households"
+date: 2026-07-12
+category: "资讯"
+description: "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting...."
+source: "TechCrunch AI"
+affiliateLink: "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+---
+
+## 简介
+
+ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting....
+
+## 核心功能
+
+1. **智能生成**：利用最新 AI 模型提升效率。
+2. **自动化流程**：一键完成复杂任务。
+
+> 💡 **提示**: 通过上方链接访问官网，体验最新功能。
+
+[阅读原文](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)
