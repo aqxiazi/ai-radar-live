@@ -1,5 +1,101 @@
 [
   {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "date": "2026-07-13",
+    "category": "资讯",
+    "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+  },
+  {
+    "title": "Chinese voice actor forced to prove he's human against AI clones",
+    "date": "2026-07-13",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.sixthtone.com/news/1018753/TheChineseVoiceActorForcedtoProveHe’sHuman"
+  },
+  {
+    "title": "Cyberpunk Comics, Manga and Graphic Novels",
+    "date": "2026-07-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48885643)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://shellzine.net/cyberpunk-comics/"
+  },
+  {
+    "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+    "date": "2026-07-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48834309)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://nebusec.ai/research/ionstack-part-2/"
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "date": "2026-07-13",
+    "category": "资讯",
+    "description": "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way, the com...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+  },
+  {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "date": "2026-07-13",
+    "category": "资讯",
+    "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+  },
+  {
+    "title": "People Can't Identify AI Poetry, but Enjoy It Less When Told It's by an AI",
+    "date": "2026-07-13",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag067/8694305?login=false"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-07-13",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/neilkpatel/baton"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-07-13",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk"
+  },
+  {
+    "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "date": "2026-07-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48884853)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
+  },
+  {
+    "title": "Thoughts on AI",
+    "date": "2026-07-13",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://jackpeplinski.bearblog.dev/thoughts-on-ai/"
+  },
+  {
+    "title": "Tinier – Image compress, convert and AI-upscale, 100% in the browser",
+    "date": "2026-07-13",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://tinier.app/"
+  },
+  {
     "title": "A dock that wakes up reliably",
     "date": "2026-07-12",
     "category": "热门",
@@ -24,14 +120,6 @@
     "affiliateLink": "https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f"
   },
   {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "date": "2026-07-12",
-    "category": "资讯",
-    "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-  },
-  {
     "title": "Dismissive Dan's Review of the Overplane AI Coding Harness",
     "date": "2026-07-12",
     "category": "AI",
@@ -54,22 +142,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=48876505)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://www.iroh.computer/blog/mesh-llm"
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "date": "2026-07-12",
-    "category": "资讯",
-    "description": "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way, the com...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-  },
-  {
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "date": "2026-07-12",
-    "category": "资讯",
-    "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
   },
   {
     "title": "Show HN",
