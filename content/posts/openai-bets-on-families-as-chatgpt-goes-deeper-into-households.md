@@ -1,6 +1,6 @@
 ---
 title: "OpenAI bets on families as ChatGPT goes deeper into households"
-date: 2026-07-12
+date: 2026-07-13
 category: "资讯"
 description: "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting...."
 source: "TechCrunch AI"
