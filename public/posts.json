@@ -1,5 +1,61 @@
 [
   {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "date": "2026-07-16",
+    "category": "资讯",
+    "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be pa...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
+  },
+  {
+    "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+    "date": "2026-07-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48871721)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://davidobando.github.io/gsharp/"
+  },
+  {
+    "title": "Grok Build is open source",
+    "date": "2026-07-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48926590)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/xai-org/grok-build"
+  },
+  {
+    "title": "Inkling",
+    "date": "2026-07-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48924912)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://thinkingmachines.ai/news/introducing-inkling/"
+  },
+  {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "date": "2026-07-16",
+    "category": "资讯",
+    "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
+  },
+  {
+    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+    "date": "2026-07-16",
+    "category": "资讯",
+    "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and a...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
+  },
+  {
+    "title": "SQLite should have (Rust-style) editions",
+    "date": "2026-07-16",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48928135)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://mort.coffee/home/sqlite-editions/"
+  },
+  {
     "title": "Bonsai 27B",
     "date": "2026-07-15",
     "category": "热门",
