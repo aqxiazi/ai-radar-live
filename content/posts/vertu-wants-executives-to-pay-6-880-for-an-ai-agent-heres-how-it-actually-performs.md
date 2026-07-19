@@ -1,6 +1,6 @@
 ---
 title: "Vertu wants executives to pay $6,880 for an AI agent — heres how it actually performs"
-date: 2026-07-18
+date: 2026-07-19
 category: "资讯"
 description: "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day...."
 source: "TechCrunch AI"
