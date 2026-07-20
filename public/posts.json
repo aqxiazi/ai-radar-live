@@ -1,5 +1,85 @@
 [
   {
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "date": "2026-07-20",
+    "category": "资讯",
+    "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+  },
+  {
+    "title": "Claude Code uses Bun written in Rust now",
+    "date": "2026-07-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48966569)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
+  },
+  {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "date": "2026-07-20",
+    "category": "资讯",
+    "description": "Everybody knows the Greeks are inside....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-07-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48968606)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://news.ycombinator.com/item?id=48968606"
+  },
+  {
+    "title": "Smart People in AI Published a Plan a They Expect to Be Ignored",
+    "date": "2026-07-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://writing.sidharthkakkar.com/p/very-smart-people-in-ai-published"
+  },
+  {
+    "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
+    "date": "2026-07-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/"
+  },
+  {
+    "title": "The Cost and Network Limits of Space-Based AI Compute",
+    "date": "2026-07-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arxiv.org/abs/2607.14172"
+  },
+  {
+    "title": "The Zen of Parallel Programming",
+    "date": "2026-07-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48907390)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://smolnero.com/posts/the-zen-of-parallel-programming"
+  },
+  {
+    "title": "What I learned selling 2,500 MIDI recorders",
+    "date": "2026-07-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=48966713)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard"
+  },
+  {
+    "title": "What to watch for after Jensen Huangs Japan visit",
+    "date": "2026-07-20",
+    "category": "资讯",
+    "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+  },
+  {
     "title": "Better and Cheaper Than IPTV",
     "date": "2026-07-19",
     "category": "热门",
