@@ -1,5 +1,101 @@
 [
   {
+    "title": "98.css",
+    "date": "2026-07-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49028927)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://jdan.github.io/98.css/#status-bar"
+  },
+  {
+    "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+    "date": "2026-07-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arxiv.org/abs/2605.22763"
+  },
+  {
+    "title": "AI Was Supposed to Lift Everybody., The Price Tag Says Otherwise",
+    "date": "2026-07-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://AllyAgentOperations.com/blog/ai-pricing-access-everyone/"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "date": "2026-07-24",
+    "category": "资讯",
+    "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "date": "2026-07-24",
+    "category": "资讯",
+    "description": "Claude's new voice model will let you reschedule your meeting or draft an email....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+  },
+  {
+    "title": "Brockovich Data Center Reporting – U.S. AI Data Center Awareness and Issue Map",
+    "date": "2026-07-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://brockovichdatacenter.com/index.html"
+  },
+  {
+    "title": "Don't Trust the Label",
+    "date": "2026-07-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arxiv.org/abs/2607.20300"
+  },
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "date": "2026-07-24",
+    "category": "资讯",
+    "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthro...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-07-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://tuziyo.com/"
+  },
+  {
+    "title": "The Visual 6502",
+    "date": "2026-07-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49029538)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "http://visual6502.org/JSSim/index.html"
+  },
+  {
+    "title": "Why AI works worse in your language",
+    "date": "2026-07-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://artifipedia.com/blog/multilingual-ai"
+  },
+  {
+    "title": "Writing by hand is good for your brain",
+    "date": "2026-07-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49022152)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
+  },
+  {
     "title": "After shocking quarter, IBM insists that AI isnt killing the mainframe",
     "date": "2026-07-23",
     "category": "资讯",
