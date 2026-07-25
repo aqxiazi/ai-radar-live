@@ -1,5 +1,53 @@
 [
   {
+    "title": "Claude Opus 5",
+    "date": "2026-07-25",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49038433)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.anthropic.com/news/claude-opus-5"
+  },
+  {
+    "title": "I tried out OpenAIs new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "date": "2026-07-25",
+    "category": "资讯",
+    "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+  },
+  {
+    "title": "Postgres LISTEN&#x2F;NOTIFY actually scales",
+    "date": "2026-07-25",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49040296)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+  },
+  {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "date": "2026-07-25",
+    "category": "资讯",
+    "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+  },
+  {
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+    "date": "2026-07-25",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49042751)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/"
+  },
+  {
+    "title": "Why Cognition bought Poke",
+    "date": "2026-07-25",
+    "category": "资讯",
+    "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI as...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
+  },
+  {
     "title": "98.css",
     "date": "2026-07-24",
     "category": "热门",
