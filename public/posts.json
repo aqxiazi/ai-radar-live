@@ -1,5 +1,93 @@
 [
   {
+    "title": "Anthropics Dario Amodei responds",
+    "date": "2026-07-28",
+    "category": "资讯",
+    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+  },
+  {
+    "title": "Astronauts describe persistent &#x27;observer&#x27; sensation after 6 month missions",
+    "date": "2026-07-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49076900)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/"
+  },
+  {
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "date": "2026-07-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49076391)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md"
+  },
+  {
+    "title": "First Genesis Mission Projects Selected to Boost AI-Driven Scientific Discovery",
+    "date": "2026-07-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate"
+  },
+  {
+    "title": "Is This What Comes After AI Slop?",
+    "date": "2026-07-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/"
+  },
+  {
+    "title": "Our position on open-weights models",
+    "date": "2026-07-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49076057)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.anthropic.com/news/position-open-weights-models"
+  },
+  {
+    "title": "PSA",
+    "date": "2026-07-28",
+    "category": "资讯",
+    "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL v...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
+  },
+  {
+    "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+    "date": "2026-07-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/"
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "date": "2026-07-28",
+    "category": "资讯",
+    "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — wi...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-07-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://underscoredone.com/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-07-28",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=49078625"
+  },
+  {
     "title": "Are brain waves the next unlock for physical AI?",
     "date": "2026-07-27",
     "category": "资讯",
