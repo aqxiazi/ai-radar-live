@@ -1,5 +1,77 @@
 [
   {
+    "title": "Elevators",
+    "date": "2026-08-01",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49124218)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://john.fun/elevators"
+  },
+  {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "date": "2026-08-01",
+    "category": "资讯",
+    "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
+  },
+  {
+    "title": "How to Exist",
+    "date": "2026-08-01",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49129990)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.raptitude.com/2026/07/how-to-exist/"
+  },
+  {
+    "title": "India is starting to pay for apps, not just download them",
+    "date": "2026-08-01",
+    "category": "资讯",
+    "description": "India's app market generated a record $345 million in Q2....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
+  },
+  {
+    "title": "Leopold Aschenbrenner built a $45B AI hedge fund – and lost most of it in days",
+    "date": "2026-08-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html"
+  },
+  {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "date": "2026-08-01",
+    "category": "资讯",
+    "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
+  },
+  {
+    "title": "qm – Multiplayer agent harness for work",
+    "date": "2026-08-01",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49126604)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/yc-software/qm"
+  },
+  {
+    "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+    "date": "2026-08-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.bbc.com/news/articles/c77g6dm5pr8o"
+  },
+  {
+    "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+    "date": "2026-08-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"
+  },
+  {
     "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
     "date": "2026-07-31",
     "category": "资讯",
