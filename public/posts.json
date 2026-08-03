@@ -1,5 +1,117 @@
 [
   {
+    "title": "AI Can Design Parts but It Can't Do This [video]",
+    "date": "2026-08-03",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=K99LtENdQjA"
+  },
+  {
+    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "date": "2026-08-03",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arxiv.org/abs/2607.28271"
+  },
+  {
+    "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&#x26;T",
+    "date": "2026-08-03",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49150738)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic"
+  },
+  {
+    "title": "CP&#x2F;M-386 – CP&#x2F;M for 386 protected mode, derived from CP&#x2F;M‑68K",
+    "date": "2026-08-03",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49149898)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/johnsonjh/cpm386"
+  },
+  {
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "date": "2026-08-03",
+    "category": "资讯",
+    "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+  },
+  {
+    "title": "Karpathy’s Pelican",
+    "date": "2026-08-03",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49140998)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://twitter.com/karpathy/status/2083749667410727319"
+  },
+  {
+    "title": "Local, Open source AI meeting recorder that sees and hears everything",
+    "date": "2026-08-03",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=49150911"
+  },
+  {
+    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "date": "2026-08-03",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
+  },
+  {
+    "title": "Qwen3.8-Max",
+    "date": "2026-08-03",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49150470)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://qwen.ai/blog?id=qwen3.8"
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "date": "2026-08-03",
+    "category": "资讯",
+    "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to pace the rate of AI development....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-08-03",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://aivisibility.pro/"
+  },
+  {
+    "title": "Why Book Corners won&#x27;t sync contributions back to OpenStreetMap",
+    "date": "2026-08-03",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49149746)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/"
+  },
+  {
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "date": "2026-08-03",
+    "category": "资讯",
+    "description": "Green offered a remarkable apology, saying that the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or g...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+  },
+  {
+    "title": "Zenith – AI that parses 2D blueprints into instant quote breakdowns",
+    "date": "2026-08-03",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://zenithquoting.com/"
+  },
+  {
     "title": "Diátaxis",
     "date": "2026-08-02",
     "category": "热门",
@@ -14,14 +126,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=49140218)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://victoriametrics.com/blog/go-1-27/index.html"
-  },
-  {
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "date": "2026-08-02",
-    "category": "资讯",
-    "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
   },
   {
     "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
@@ -54,14 +158,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=49140396)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://github.com/tom-ilan/cycloidal_gearbox"
-  },
-  {
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "date": "2026-08-02",
-    "category": "资讯",
-    "description": "Green offered a remarkable apology, saying that the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or g...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
   },
   {
     "title": "Elevators",
