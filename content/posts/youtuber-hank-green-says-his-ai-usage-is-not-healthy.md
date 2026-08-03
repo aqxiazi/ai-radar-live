@@ -1,6 +1,6 @@
 ---
 title: "YouTuber Hank Green says his AI usage is ‘not healthy’"
-date: 2026-08-02
+date: 2026-08-03
 category: "资讯"
 description: "Green offered a remarkable apology, saying that the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or g..."
 source: "TechCrunch AI"
