@@ -1,5 +1,61 @@
 [
   {
+    "title": "Discovery Loop",
+    "date": "2026-08-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49184960)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.discoveryloop.com/"
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "date": "2026-08-06",
+    "category": "资讯",
+    "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discove...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "date": "2026-08-06",
+    "category": "资讯",
+    "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
+  },
+  {
+    "title": "LLMs won&#x27;t break symmetric crypto",
+    "date": "2026-08-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49191365)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto"
+  },
+  {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "date": "2026-08-06",
+    "category": "资讯",
+    "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+  },
+  {
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "date": "2026-08-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49191624)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
+  },
+  {
+    "title": "Zed DeltaDB",
+    "date": "2026-08-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49187256)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://zed.dev/deltadb"
+  },
+  {
     "title": "Anthropic signs $10B deal with AI cloud startup Volta",
     "date": "2026-08-05",
     "category": "资讯",
