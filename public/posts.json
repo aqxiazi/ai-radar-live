@@ -1,5 +1,61 @@
 [
   {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "date": "2026-08-08",
+    "category": "资讯",
+    "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "date": "2026-08-08",
+    "category": "资讯",
+    "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, h...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+  },
+  {
+    "title": "DeepSeek V4 Flash 0731",
+    "date": "2026-08-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49214008)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://arcprize.org/results/deepseek-v4-flash-0731"
+  },
+  {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "date": "2026-08-08",
+    "category": "资讯",
+    "description": "OpenAI said this model, which is still in development, reached its critical cybersecurity threshold, meaning it could independently identify and carry...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+  },
+  {
+    "title": "Should AI labs be treated like the owners of dangerous animals?",
+    "date": "2026-08-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49217629)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
+  },
+  {
+    "title": "The Nixpkgs core team has disbanded",
+    "date": "2026-08-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49217993)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413"
+  },
+  {
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "date": "2026-08-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49216946)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://genesisopenmodels.anl.gov/"
+  },
+  {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "date": "2026-08-07",
     "category": "热门",
