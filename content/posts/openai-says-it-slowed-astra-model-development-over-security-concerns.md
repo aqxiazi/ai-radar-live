@@ -1,6 +1,6 @@
 ---
 title: "OpenAI says it slowed Astra model development over security concerns"
-date: 2026-08-08
+date: 2026-08-09
 category: "资讯"
 description: "OpenAI said this model, which is still in development, reached its critical cybersecurity threshold, meaning it could independently identify and carry..."
 source: "TechCrunch AI"
