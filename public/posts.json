@@ -1,5 +1,85 @@
 [
   {
+    "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
+    "date": "2026-08-09",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=DP454c1K_vQ"
+  },
+  {
+    "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
+    "date": "2026-08-09",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://zenodo.org/records/21855824"
+  },
+  {
+    "title": "Fastmail offers EU data region",
+    "date": "2026-08-09",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49223082)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
+  },
+  {
+    "title": "I built a video editor in Rust with extensive AI-powered features",
+    "date": "2026-08-09",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/heng30/wayshot"
+  },
+  {
+    "title": "Improving Heuristics for A* Pathfinding",
+    "date": "2026-08-09",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49079995)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.redblobgames.com/pathfinding/heuristics/differential.html"
+  },
+  {
+    "title": "My server is a phone now",
+    "date": "2026-08-09",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49226636)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://seg6.space/posts/phone-server/"
+  },
+  {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "date": "2026-08-09",
+    "category": "资讯",
+    "description": "NextSlide says its team members are now working on ChatGPT....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+  },
+  {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "date": "2026-08-09",
+    "category": "资讯",
+    "description": "OpenAI said this model, which is still in development, reached its critical cybersecurity threshold, meaning it could independently identify and carry...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+  },
+  {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "date": "2026-08-09",
+    "category": "资讯",
+    "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollu...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+  },
+  {
+    "title": "The AI Apocalypse Is Here",
+    "date": "2026-08-09",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/"
+  },
+  {
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "date": "2026-08-08",
     "category": "资讯",
@@ -22,14 +102,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=49214008)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://arcprize.org/results/deepseek-v4-flash-0731"
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "date": "2026-08-08",
-    "category": "资讯",
-    "description": "OpenAI said this model, which is still in development, reached its critical cybersecurity threshold, meaning it could independently identify and carry...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
   },
   {
     "title": "Should AI labs be treated like the owners of dangerous animals?",
