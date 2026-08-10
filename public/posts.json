@@ -1,5 +1,77 @@
 [
   {
+    "title": "A startup is able to detect fires within minutes using satellites and AI",
+    "date": "2026-08-10",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html"
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "date": "2026-08-10",
+    "category": "资讯",
+    "description": "Programming with Claude Code will soon require even less human oversight....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "date": "2026-08-10",
+    "category": "资讯",
+    "description": "The AI-focused hedge fund is still making some big bets....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+  },
+  {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "date": "2026-08-10",
+    "category": "资讯",
+    "description": "On the latest episode of Equity, we spoke to Jill Lepore about government by machines and why Elon Musk is a bad science fiction reader....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
+  },
+  {
+    "title": "How I use LLMs to learn complex topics",
+    "date": "2026-08-10",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49234675)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
+  },
+  {
+    "title": "How We Pushed CDC into Postgres",
+    "date": "2026-08-10",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49238050)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/"
+  },
+  {
+    "title": "Mea Culpa – Dark Hours",
+    "date": "2026-08-10",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49231154)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"
+  },
+  {
+    "title": "What do I want to be? – a poem about parenting in the AI age",
+    "date": "2026-08-10",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.reddit.com/r/Adulting/s/1ZF6OLsjko"
+  },
+  {
+    "title": "What if we let AI govern us?",
+    "date": "2026-08-10",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://inevolin.substack.com/p/what-if-we-let-ai-govern-us"
+  },
+  {
     "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
     "date": "2026-08-09",
     "category": "AI",
