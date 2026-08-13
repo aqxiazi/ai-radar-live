@@ -1,5 +1,53 @@
 [
   {
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "date": "2026-08-13",
+    "category": "资讯",
+    "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+  },
+  {
+    "title": "Amazon will train on Twitch streamers content by default, unless they opt out",
+    "date": "2026-08-13",
+    "category": "资讯",
+    "description": "If this was opt-in, nobody would opt in, Twitch CPO Mike Minton said on a livestream responding to user feedback. That's honestly the answer....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+  },
+  {
+    "title": "DeepSeek V4 Pro 0813",
+    "date": "2026-08-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49274600)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+  },
+  {
+    "title": "Delta",
+    "date": "2026-08-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49276574)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://zed.dev/blog/introducing-delta"
+  },
+  {
+    "title": "Some Claude users are mad that Anthropics new watermarks will catch them using it at their jobs, classes",
+    "date": "2026-08-13",
+    "category": "资讯",
+    "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+  },
+  {
+    "title": "Tailscale Traces Database Corruption to 16y&#x2F;o SQLite WAL-Reset Bug",
+    "date": "2026-08-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49272832)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://tailscale.com/blog/sqlite-wal-reset-bug"
+  },
+  {
     "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
     "date": "2026-08-12",
     "category": "资讯",
