@@ -1,10 +1,10 @@
 ---
-title: "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI"
+title: "Silicon Valley's AI boom is remaking American charity"
 date: 2026-08-14
 category: "AI"
 description: "点击查看原文以获取详细内容..."
 source: "HackerNews AI"
-affiliateLink: "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"
+affiliateLink: "https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity"
 ---
 
 ## 简介
@@ -18,4 +18,4 @@ affiliateLink: "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-
 
 > 💡 **提示**: 通过上方链接访问官网，体验最新功能。
 
-[阅读原文](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)
+[阅读原文](https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity)
