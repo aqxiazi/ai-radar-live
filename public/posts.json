@@ -1,5 +1,85 @@
 [
   {
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "date": "2026-08-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49289844)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+  },
+  {
+    "title": "Bluesky Protocol Services",
+    "date": "2026-08-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49293324)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://atproto.com/blog/introducing-bluesky-protocol-services"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "date": "2026-08-14",
+    "category": "资讯",
+    "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+  },
+  {
+    "title": "DeepMind's Hassabis Pitched AI-Oversight Body Before Shake-Up",
+    "date": "2026-08-14",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71"
+  },
+  {
+    "title": "Gemini 3.7 Flash",
+    "date": "2026-08-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49289112)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+  },
+  {
+    "title": "OpenAI introduces Ultrafast, a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "date": "2026-08-14",
+    "category": "资讯",
+    "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+  },
+  {
+    "title": "Silicon Valley's AI boom is remaking American charity",
+    "date": "2026-08-14",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity"
+  },
+  {
+    "title": "SparrowMap – Cameras that watch government vehicles",
+    "date": "2026-08-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49293294)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://sparrowmap.com/"
+  },
+  {
+    "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+    "date": "2026-08-14",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"
+  },
+  {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "date": "2026-08-14",
+    "category": "资讯",
+    "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a m...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+  },
+  {
     "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "date": "2026-08-13",
     "category": "资讯",
@@ -830,14 +910,6 @@
     "description": "点击查看原文以获取详细内容...",
     "source": "HackerNews AI",
     "affiliateLink": "https://www.bbc.com/news/articles/c77g6dm5pr8o"
-  },
-  {
-    "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
-    "date": "2026-08-01",
-    "category": "AI",
-    "description": "点击查看原文以获取详细内容...",
-    "source": "HackerNews AI",
-    "affiliateLink": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79"
   },
   {
     "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
