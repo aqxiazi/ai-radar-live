@@ -1,5 +1,85 @@
 [
   {
+    "title": "Does Mark Zuckerberg really believe AI is for everyone?",
+    "date": "2026-08-15",
+    "category": "资讯",
+    "description": "Meta released Glimmer this week, an open-weight AImodelanyone can download and run on their own hardware— a contrast toMuseSpark, the company’s more p...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+  },
+  {
+    "title": "Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance",
+    "date": "2026-08-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://flownie.com/"
+  },
+  {
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "date": "2026-08-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49304447)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
+  },
+  {
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "date": "2026-08-15",
+    "category": "资讯",
+    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+  },
+  {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "date": "2026-08-15",
+    "category": "资讯",
+    "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+  },
+  {
+    "title": "Qwen 3.8 27B",
+    "date": "2026-08-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49299605)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+  },
+  {
+    "title": "RISC-V",
+    "date": "2026-08-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49305492)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV"
+  },
+  {
+    "title": "ShieldFont",
+    "date": "2026-08-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/"
+  },
+  {
+    "title": "The case for overhauling American science",
+    "date": "2026-08-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49305708)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science"
+  },
+  {
+    "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+    "date": "2026-08-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/"
+  },
+  {
     "title": "Accelerating GPT-5.6 Sol Ultrafast",
     "date": "2026-08-14",
     "category": "热门",
