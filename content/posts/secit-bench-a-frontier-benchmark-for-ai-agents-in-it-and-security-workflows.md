@@ -1,10 +1,10 @@
 ---
-title: "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text"
+title: "SecIT Bench A frontier benchmark for AI agents in IT and security workflows"
 date: 2026-08-19
 category: "AI"
 description: "点击查看原文以获取详细内容..."
 source: "HackerNews AI"
-affiliateLink: "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking"
+affiliateLink: "https://secitbench.cribl.io/"
 ---
 
 ## 简介
@@ -18,4 +18,4 @@ affiliateLink: "https://daringfireball.net/2026/08/follow-up_thoughts_on_waterma
 
 > 💡 **提示**: 通过上方链接访问官网，体验最新功能。
 
-[阅读原文](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking)
+[阅读原文](https://secitbench.cribl.io/)
