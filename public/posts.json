@@ -1,5 +1,77 @@
 [
   {
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "date": "2026-08-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49353221)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/DenisSergeevitch/desktop-fly"
+  },
+  {
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "date": "2026-08-19",
+    "category": "资讯",
+    "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+  },
+  {
+    "title": "Etcheds valuation doubles to $21B in a month",
+    "date": "2026-08-19",
+    "category": "资讯",
+    "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+  },
+  {
+    "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+    "date": "2026-08-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking"
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "date": "2026-08-19",
+    "category": "资讯",
+    "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security du...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+  },
+  {
+    "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+    "date": "2026-08-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://secitbench.cribl.io/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-08-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://apps.apple.com/pl/app/monity-ai/id6761957823"
+  },
+  {
+    "title": "Solo – a .so loader for static Linux binaries",
+    "date": "2026-08-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49354613)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/pg83/solo"
+  },
+  {
+    "title": "The Amazon tax",
+    "date": "2026-08-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49345263)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://seths.blog/2026/08/the-amazon-tax/"
+  },
+  {
     "title": "AI automation startup Relay shuts down, staff joins Googles Chrome team",
     "date": "2026-08-18",
     "category": "资讯",
@@ -46,14 +118,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=49338285)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera"
-  },
-  {
-    "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
-    "date": "2026-08-18",
-    "category": "AI",
-    "description": "点击查看原文以获取详细内容...",
-    "source": "HackerNews AI",
-    "affiliateLink": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking"
   },
   {
     "title": "GPT-5.6 Sol Pricing Cut by 50%",
