@@ -1,5 +1,85 @@
 [
   {
+    "title": "Agentic AI has made CPUs the new performance bottleneck",
+    "date": "2026-08-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://spectrum.ieee.org/ai-cpu-comeback"
+  },
+  {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "date": "2026-08-20",
+    "category": "资讯",
+    "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI an...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+  },
+  {
+    "title": "Credentialism is coming for AI agents",
+    "date": "2026-08-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/"
+  },
+  {
+    "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+    "date": "2026-08-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49368625)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724"
+  },
+  {
+    "title": "Go 1.27",
+    "date": "2026-08-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49365405)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://go.dev/blog/go1.27"
+  },
+  {
+    "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+    "date": "2026-08-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49364745)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://grapheneos.social/@GrapheneOS/117057099753905023"
+  },
+  {
+    "title": "How to use AI for your next job interview",
+    "date": "2026-08-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview"
+  },
+  {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "date": "2026-08-20",
+    "category": "资讯",
+    "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+  },
+  {
+    "title": "OpenRouter is joining Stripe",
+    "date": "2026-08-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49364559)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"
+  },
+  {
+    "title": "Stripe didnt really buy OpenRouter because of the singularity",
+    "date": "2026-08-20",
+    "category": "资讯",
+    "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of the singularity but it's r...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
+  },
+  {
     "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
     "date": "2026-08-19",
     "category": "热门",
