@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI and Consciousness – A Skeptical Overview",
+    "date": "2026-08-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896"
+  },
+  {
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "date": "2026-08-21",
+    "category": "资讯",
+    "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "date": "2026-08-21",
+    "category": "资讯",
+    "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
+  },
+  {
+    "title": "Consumer Rights Wiki",
+    "date": "2026-08-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49378243)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://consumerrights.wiki/w/Main_Page"
+  },
+  {
+    "title": "Copyright does not protect AI-generated content in EU",
+    "date": "2026-08-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49382041)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://mathstodon.xyz/@maxpool/117128107757895678"
+  },
+  {
+    "title": "How A Texas student blew the whistle on a rogue AI hacking attempt",
+    "date": "2026-08-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
+  },
+  {
+    "title": "How Much of the Internet Is Written with AI?",
+    "date": "2026-08-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
+  },
+  {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "date": "2026-08-21",
+    "category": "资讯",
+    "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how s...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+  },
+  {
+    "title": "The August 17 outage, and the work ahead",
+    "date": "2026-08-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49378957)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+  },
+  {
     "title": "Agentic AI has made CPUs the new performance bottleneck",
     "date": "2026-08-20",
     "category": "AI",
