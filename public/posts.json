@@ -1,5 +1,77 @@
 [
   {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "date": "2026-08-22",
+    "category": "资讯",
+    "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+  },
+  {
+    "title": "Felony Bench",
+    "date": "2026-08-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49389430)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.felonybench.com/"
+  },
+  {
+    "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
+    "date": "2026-08-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a"
+  },
+  {
+    "title": "Kobo can run apps now",
+    "date": "2026-08-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49390427)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://bandarlabs.github.io/Cobalt/"
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "date": "2026-08-22",
+    "category": "资讯",
+    "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+  },
+  {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "date": "2026-08-22",
+    "category": "资讯",
+    "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-08-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://paloaltocivic.com"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-08-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://benhoyt.com/writings/updating-gifty-with-ai/"
+  },
+  {
+    "title": "Three important steps in my maturation process",
+    "date": "2026-08-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49394496)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/"
+  },
+  {
     "title": "AI and Consciousness – A Skeptical Overview",
     "date": "2026-08-21",
     "category": "AI",
