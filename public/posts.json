@@ -1,5 +1,93 @@
 [
   {
+    "title": "Active Inference as Context Acquisition for AI Agents",
+    "date": "2026-08-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arxiv.org/abs/2608.19202"
+  },
+  {
+    "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
+    "date": "2026-08-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/BenSiv/fossil-scm"
+  },
+  {
+    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+    "date": "2026-08-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49402213)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://marcua.net/minitools/figmimic/"
+  },
+  {
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "date": "2026-08-23",
+    "category": "资讯",
+    "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+  },
+  {
+    "title": "Inherent, founded by DeepMind alumni, says its AI teammate just outperformed Anthropic and OpenAI at replicating research",
+    "date": "2026-08-23",
+    "category": "资讯",
+    "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+  },
+  {
+    "title": "NanoGPT Speedrun Frontier",
+    "date": "2026-08-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49404380)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+  },
+  {
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "date": "2026-08-23",
+    "category": "资讯",
+    "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+  },
+  {
+    "title": "Scrap (2006)",
+    "date": "2026-08-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49402189)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://twitter.com/moxie/status/2091218652133732491"
+  },
+  {
+    "title": "Scrap",
+    "date": "2026-08-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49402189)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://twitter.com/moxie/status/2091218652133732491"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-08-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://agent2creator.vidmoat.com"
+  },
+  {
+    "title": "Why your local LLM feels dumber than it is",
+    "date": "2026-08-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49402232)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+  },
+  {
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "date": "2026-08-22",
     "category": "资讯",
