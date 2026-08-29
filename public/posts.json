@@ -1,5 +1,85 @@
 [
   {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "date": "2026-08-29",
+    "category": "资讯",
+    "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+  },
+  {
+    "title": "Boot a Virtual iPhone via Apple&#x27;s Virtualization.framework",
+    "date": "2026-08-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49485267)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/Lakr233/vphone-cli"
+  },
+  {
+    "title": "GUIs should be fully keyboard-driven",
+    "date": "2026-08-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49479837)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
+  },
+  {
+    "title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
+    "date": "2026-08-29",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory"
+  },
+  {
+    "title": "LaneGate – Git-native worktree orchestrator for AI agents",
+    "date": "2026-08-29",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/sudheerdvn/lanegate"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "date": "2026-08-29",
+    "category": "资讯",
+    "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+  },
+  {
+    "title": "Open-weight AI companies are the Valleys hottest acquisition targets",
+    "date": "2026-08-29",
+    "category": "资讯",
+    "description": "There's a lot of capital pouring into the business of giving models away....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+  },
+  {
+    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
+    "date": "2026-08-29",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/"
+  },
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "date": "2026-08-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49486172)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
+  },
+  {
+    "title": "TurboKV",
+    "date": "2026-08-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49486334)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/kingroryg/turbokv"
+  },
+  {
     "title": "Agnes AI Releases Agnes 2.5 Pro Beta",
     "date": "2026-08-28",
     "category": "AI",
