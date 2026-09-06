@@ -1,5 +1,101 @@
 [
   {
+    "title": "Cloud in a Bottle",
+    "date": "2026-09-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49582000)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://cloudinabottle.org/blog/launch-post"
+  },
+  {
+    "title": "GPT-6 Astra on robot arms",
+    "date": "2026-09-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49582582)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openai.robocurve.org/gpt-6-astra/"
+  },
+  {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "date": "2026-09-06",
+    "category": "资讯",
+    "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+  },
+  {
+    "title": "I was offered money to scare you of AI [video]",
+    "date": "2026-09-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=lPdmYMHrWKg"
+  },
+  {
+    "title": "Nvidia Personal AI Router (Pair)",
+    "date": "2026-09-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/NVIDIA/Personal-AI-Router"
+  },
+  {
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "date": "2026-09-06",
+    "category": "资讯",
+    "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+  },
+  {
+    "title": "Routed",
+    "date": "2026-09-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/bshea-1/Routed"
+  },
+  {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "date": "2026-09-06",
+    "category": "资讯",
+    "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+  },
+  {
+    "title": "The revolt of the reader",
+    "date": "2026-09-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49580939)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"
+  },
+  {
+    "title": "The Shape and Feel of the Post-AI Data Stack",
+    "date": "2026-09-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.iandmacomber.com/blog/post-ai-data-stack/"
+  },
+  {
+    "title": "Title",
+    "date": "2026-09-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/davidnichols-ops/aafp-commons"
+  },
+  {
+    "title": "VMware Intros Private AI Cloud",
+    "date": "2026-09-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559"
+  },
+  {
     "title": "Actively exploited sandbox RCE in all Chromium versions",
     "date": "2026-09-05",
     "category": "热门",
