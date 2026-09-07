@@ -1,5 +1,85 @@
 [
   {
+    "title": "A Rogue AI Swarm Could Hide Inside an AI Company [video]",
+    "date": "2026-09-07",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=xRKOpMeEQgQ"
+  },
+  {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "date": "2026-09-07",
+    "category": "资讯",
+    "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+  },
+  {
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "date": "2026-09-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49590611)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+  },
+  {
+    "title": "Keep Our Servers Running",
+    "date": "2026-09-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49593563)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
+  },
+  {
+    "title": "Making a Python interpreter in 1024 bytes",
+    "date": "2026-09-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49591876)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://austinhenley.com/blog/python1024.html"
+  },
+  {
+    "title": "PL Education in the Age of AI",
+    "date": "2026-09-07",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai"
+  },
+  {
+    "title": "ripwire",
+    "date": "2026-09-07",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/redhat-et/ripwire"
+  },
+  {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "date": "2026-09-07",
+    "category": "资讯",
+    "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+  },
+  {
+    "title": "The NX bit is not just about security",
+    "date": "2026-09-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49564609)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/"
+  },
+  {
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "date": "2026-09-07",
+    "category": "资讯",
+    "description": "The Uber founder has said that Atoms will allow him to complete unfinished business....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+  },
+  {
     "title": "Cloud in a Bottle",
     "date": "2026-09-06",
     "category": "热门",
@@ -54,14 +134,6 @@
     "description": "点击查看原文以获取详细内容...",
     "source": "HackerNews AI",
     "affiliateLink": "https://github.com/bshea-1/Routed"
-  },
-  {
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "date": "2026-09-06",
-    "category": "资讯",
-    "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
   },
   {
     "title": "The revolt of the reader",
