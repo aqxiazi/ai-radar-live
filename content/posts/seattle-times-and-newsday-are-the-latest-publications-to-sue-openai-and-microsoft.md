@@ -1,6 +1,6 @@
 ---
 title: "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
-date: 2026-09-06
+date: 2026-09-07
 category: "资讯"
 description: "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI...."
 source: "TechCrunch AI"
