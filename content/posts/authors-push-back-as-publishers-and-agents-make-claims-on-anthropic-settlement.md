@@ -1,6 +1,6 @@
 ---
 title: "Authors push back as publishers and agents make claims on Anthropic settlement"
-date: 2026-09-07
+date: 2026-09-08
 category: "资讯"
 description: "Authors say publishers seem to be claiming more than their fair share of settlement payments...."
 source: "TechCrunch AI"
