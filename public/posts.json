@@ -1,5 +1,93 @@
 [
   {
+    "title": "A misalignment of AI in mathematics",
+    "date": "2026-09-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49662371)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://mathandai.org/"
+  },
+  {
+    "title": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
+    "date": "2026-09-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/dG_VSqyli1A"
+  },
+  {
+    "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
+    "date": "2026-09-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/"
+  },
+  {
+    "title": "Ask HN",
+    "date": "2026-09-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=49668216"
+  },
+  {
+    "title": "Classifying AI Website Fetches on Behalf of Users",
+    "date": "2026-09-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://canonry.ai/blog/classifying-ai-crawlers-user-fetches-server-logs"
+  },
+  {
+    "title": "Google no longer provides direct URLs in search results",
+    "date": "2026-09-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49668386)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.autom.dev/blog/google-search-goto-links"
+  },
+  {
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "date": "2026-09-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49662990)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://dayzlegame.com/blog/google-ads-bot-farm/"
+  },
+  {
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "date": "2026-09-12",
+    "category": "资讯",
+    "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+  },
+  {
+    "title": "OpenAIs feud with mathematicians is only escalating",
+    "date": "2026-09-12",
+    "category": "资讯",
+    "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+  },
+  {
+    "title": "Pandas Should Go Extinct",
+    "date": "2026-09-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49668198)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://eddie.codes/posts/pandas-should-go-extinct/"
+  },
+  {
+    "title": "Y Combinators Garry Tan wants US open-weight AI labs to distill frontier models, too",
+    "date": "2026-09-12",
+    "category": "资讯",
+    "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robus...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+  },
+  {
     "title": "Anthropic Staffers Again Sound the Alarm on AI Catastrophe",
     "date": "2026-09-11",
     "category": "AI",
