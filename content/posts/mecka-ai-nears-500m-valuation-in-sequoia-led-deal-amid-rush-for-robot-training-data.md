@@ -1,6 +1,6 @@
 ---
 title: "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data"
-date: 2026-09-12
+date: 2026-09-13
 category: "资讯"
 description: "The round for the two-year-old startup is coming together months after Mecka announced its Series A...."
 source: "TechCrunch AI"
