@@ -1,6 +1,6 @@
 ---
 title: "OpenAI’s Sam Altman says it would be ill-advised to go public in 2026"
-date: 2026-09-13
+date: 2026-09-14
 category: "资讯"
 description: "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman...."
 source: "TechCrunch AI"
