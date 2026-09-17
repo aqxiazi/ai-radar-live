@@ -1,5 +1,117 @@
 [
   {
+    "title": "$1,500 AI System Prompt Leak",
+    "date": "2026-09-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://medium.com/@tinopreter/1-500-ai-system-prompt-leak-using-this-burp-suite-configuration-e1cb6ab27dc5"
+  },
+  {
+    "title": "Al Gore says the real AI risk isnt data centers — its what industry leaders are warning about",
+    "date": "2026-09-17",
+    "category": "资讯",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
+  },
+  {
+    "title": "Al Gore says the real AI risk isnt data centers",
+    "date": "2026-09-17",
+    "category": "资讯",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
+  },
+  {
+    "title": "House advances bill to rein in AI data center utility costs",
+    "date": "2026-09-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html"
+  },
+  {
+    "title": "Keys Not Included",
+    "date": "2026-09-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49735930)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://ryan.science/blog/keys-not-included"
+  },
+  {
+    "title": "Nvidia announces native GPU programming in Rust",
+    "date": "2026-09-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49724881)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+  },
+  {
+    "title": "Pangram AI Detection API",
+    "date": "2026-09-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.pangram.com/solutions/api"
+  },
+  {
+    "title": "Quire – Humans and AI agents edit local Markdown together",
+    "date": "2026-09-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/heetdalsania/quire"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-09-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/MerariJafet/agora"
+  },
+  {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "date": "2026-09-17",
+    "category": "资讯",
+    "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+  },
+  {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "date": "2026-09-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49731285)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://rohanbansal.com/qorl"
+  },
+  {
+    "title": "Washington Won't Be Regulating AI Anytime Soon",
+    "date": "2026-09-17",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/"
+  },
+  {
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "date": "2026-09-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49732270)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://mimo.xiaomi.com/rl/"
+  },
+  {
+    "title": "Your startup’s next teammate might be an AI agent",
+    "date": "2026-09-17",
+    "category": "资讯",
+    "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+  },
+  {
     "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
     "date": "2026-09-16",
     "category": "AI",
