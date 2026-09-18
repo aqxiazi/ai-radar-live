@@ -1,5 +1,109 @@
 [
   {
+    "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
+    "date": "2026-09-18",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/"
+  },
+  {
+    "title": "Astra for Law",
+    "date": "2026-09-18",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49745940)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openai.com/index/astra-for-law/"
+  },
+  {
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "date": "2026-09-18",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49746163)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://bend-lang.com/"
+  },
+  {
+    "title": "Bonsai 2 27B",
+    "date": "2026-09-18",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49746618)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://prismml.com/news/bonsai-2-27b"
+  },
+  {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular AI factories",
+    "date": "2026-09-18",
+    "category": "资讯",
+    "description": "The round values the data center giant at $30.9 billion....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+  },
+  {
+    "title": "Google announces new experimental \\CC\\ AI agent for families",
+    "date": "2026-09-18",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
+  },
+  {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "date": "2026-09-18",
+    "category": "资讯",
+    "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. They will not...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+  },
+  {
+    "title": "Hacking OpenAI",
+    "date": "2026-09-18",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49749656)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.hacktron.ai/blog/hacking-openai"
+  },
+  {
+    "title": "Low-Cost Servers for AI and Developers",
+    "date": "2026-09-18",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://rawhq.io"
+  },
+  {
+    "title": "macOS 27 is a lifesaver for killing leftover AI Agent processes",
+    "date": "2026-09-18",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/"
+  },
+  {
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "date": "2026-09-18",
+    "category": "资讯",
+    "description": "If AI lab PrismML isn't on your radar yet, it should be....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+  },
+  {
+    "title": "Reflections on Trusting Trust, Revisited",
+    "date": "2026-09-18",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arxiv.org/abs/2609.17817"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-09-18",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/vikcena01/ai-continuity-plugin"
+  },
+  {
     "title": "$1,500 AI System Prompt Leak",
     "date": "2026-09-17",
     "category": "AI",
