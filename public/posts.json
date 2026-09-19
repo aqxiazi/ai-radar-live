@@ -1,5 +1,61 @@
 [
   {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "date": "2026-09-19",
+    "category": "资讯",
+    "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+  },
+  {
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "date": "2026-09-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49758736)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+  },
+  {
+    "title": "Cloudflare Quick Tunnels",
+    "date": "2026-09-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49754785)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://try.cloudflare.com/"
+  },
+  {
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "date": "2026-09-19",
+    "category": "资讯",
+    "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+  },
+  {
+    "title": "Science Is Open Software",
+    "date": "2026-09-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49762687)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://jepedersen.dk/blog/202505_research/"
+  },
+  {
+    "title": "SDCC – Small Device C Compiler",
+    "date": "2026-09-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49762744)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://sdcc.sourceforge.net/"
+  },
+  {
+    "title": "Tilly Norwoods press tour is going about as well as youd expect for an AI",
+    "date": "2026-09-19",
+    "category": "资讯",
+    "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+  },
+  {
     "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
     "date": "2026-09-18",
     "category": "AI",
