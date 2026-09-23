@@ -1,5 +1,77 @@
 [
   {
+    "title": "Claude Opus 5.5",
+    "date": "2026-09-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49803892)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.anthropic.com/claude-opus-5-5"
+  },
+  {
+    "title": "Created a local AI to save data",
+    "date": "2026-09-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/just-not-google/BiNeuron"
+  },
+  {
+    "title": "GPT-6 Sol and Luna",
+    "date": "2026-09-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49805509)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+  },
+  {
+    "title": "How to Create Your Own Personal AI Benchmark",
+    "date": "2026-09-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark"
+  },
+  {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "date": "2026-09-23",
+    "category": "资讯",
+    "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "date": "2026-09-23",
+    "category": "资讯",
+    "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+  },
+  {
+    "title": "TechCrunch Founder Summit’s agenda revealed",
+    "date": "2026-09-23",
+    "category": "资讯",
+    "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a compa...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+  },
+  {
+    "title": "The 'AI confidence trap' many New Zealanders are caught in",
+    "date": "2026-09-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.rnz.co.nz/news/business/1530184/the-ai-confidence-trap-many-new-zealanders-are-caught-in"
+  },
+  {
+    "title": "US criticises Australia&#x27;s proposed algorithm opt-out laws as &#x27;censorship&#x27;",
+    "date": "2026-09-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49810829)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.bbc.com/news/articles/cqj3dgy8x3vro"
+  },
+  {
     "title": "Discover what’s next",
     "date": "2026-09-22",
     "category": "资讯",
