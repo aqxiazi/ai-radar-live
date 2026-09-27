@@ -1,5 +1,77 @@
 [
   {
+    "title": "DeepSeek Elastic Compute (DSec)",
+    "date": "2026-09-27",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49859112)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://arxiv.org/abs/2609.22978"
+  },
+  {
+    "title": "Go Concurrency Distilled",
+    "date": "2026-09-27",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49856988)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://antonz.org/go-concurrency-distilled/"
+  },
+  {
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "date": "2026-09-27",
+    "category": "资讯",
+    "description": "The limited test covers select products and users, with a broader rollout planned for later in October....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+  },
+  {
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "date": "2026-09-27",
+    "category": "资讯",
+    "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+  },
+  {
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "date": "2026-09-27",
+    "category": "资讯",
+    "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+  },
+  {
+    "title": "Minicut AI",
+    "date": "2026-09-27",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.minicut.ai"
+  },
+  {
+    "title": "PipePipe",
+    "date": "2026-09-27",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49842764)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/InfinityLoop1308/PipePipe"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-09-27",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://aurasearch-real-private-unlimited-search-engine-18351778012.asia-southeast1.run.app/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-09-27",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://peertalk.ai"
+  },
+  {
     "title": "AI Safety's Disallowed Conclusion",
     "date": "2026-09-26",
     "category": "AI",
