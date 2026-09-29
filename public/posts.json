@@ -1,5 +1,93 @@
 [
   {
+    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+    "date": "2026-09-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49886195)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://lolchat.rip/"
+  },
+  {
+    "title": "AI risk is not sentience by computers, it is negligence by humans",
+    "date": "2026-09-29",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/"
+  },
+  {
+    "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+    "date": "2026-09-29",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/"
+  },
+  {
+    "title": "Anthropics prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "date": "2026-09-29",
+    "category": "资讯",
+    "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+  },
+  {
+    "title": "Can AI self-improvement overcome diminishing returns?",
+    "date": "2026-09-29",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence"
+  },
+  {
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "date": "2026-09-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49883844)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/firelex/jeff"
+  },
+  {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "date": "2026-09-29",
+    "category": "资讯",
+    "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+  },
+  {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "date": "2026-09-29",
+    "category": "资讯",
+    "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+  },
+  {
+    "title": "Phyllotaxis",
+    "date": "2026-09-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49880411)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://jagi.studio/posts/phyllotaxis/"
+  },
+  {
+    "title": "Pirating the Pirates",
+    "date": "2026-09-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49880036)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://mubi.com/en/notebook/posts/pirating-the-pirates"
+  },
+  {
+    "title": "Source",
+    "date": "2026-09-29",
+    "category": "资讯",
+    "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+  },
+  {
     "title": "Anthropic’s CEO is about to have dinner with President Trump",
     "date": "2026-09-28",
     "category": "资讯",
