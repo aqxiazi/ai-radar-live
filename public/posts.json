@@ -1,5 +1,109 @@
 [
   {
+    "title": "AI Opportunity Scan",
+    "date": "2026-10-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://msa-mail.com/ai-scan/"
+  },
+  {
+    "title": "Ask HN",
+    "date": "2026-10-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=49974436"
+  },
+  {
+    "title": "Beam",
+    "date": "2026-10-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49969183)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://reflection.ai/blog/introducing-beam"
+  },
+  {
+    "title": "Coyote vs. ACME pro AI rights?",
+    "date": "2026-10-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=49974374"
+  },
+  {
+    "title": "Example.com just launched the biggest redesign in decades",
+    "date": "2026-10-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49971921)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.debugbear.com/blog/example-dot-com-redesign-history"
+  },
+  {
+    "title": "Find the flattest route between any two points in SF",
+    "date": "2026-10-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49971230)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://flattensf.com/"
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "date": "2026-10-06",
+    "category": "资讯",
+    "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating even...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPTs text in the EU",
+    "date": "2026-10-06",
+    "category": "资讯",
+    "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+  },
+  {
+    "title": "Plainserp – Google search API for AI agents at $0.30 per 1k",
+    "date": "2026-10-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://plainserp.com"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "date": "2026-10-06",
+    "category": "资讯",
+    "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let insti...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+  },
+  {
+    "title": "The AI boom is making the cheapest smartphones disappear",
+    "date": "2026-10-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"
+  },
+  {
+    "title": "Wattle AI – an AI receptionist that answers and books calls for small businesses",
+    "date": "2026-10-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://heywattle.com"
+  },
+  {
+    "title": "Why Common Lisp is now the best programming language",
+    "date": "2026-10-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=49973598)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.vivienhenz.com/common-lisp"
+  },
+  {
     "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
     "date": "2026-10-05",
     "category": "资讯",
