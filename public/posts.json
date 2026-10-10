@@ -1,5 +1,61 @@
 [
   {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "date": "2026-10-10",
+    "category": "资讯",
+    "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+  },
+  {
+    "title": "Anthropic cant reliably control its AI agents. Its cutting off its internal evals from the live internet instead",
+    "date": "2026-10-10",
+    "category": "资讯",
+    "description": "Anthropic said it turned off live internet access for all our internal evaluations until further notice....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+  },
+  {
+    "title": "Cloudflare acquires Deno",
+    "date": "2026-10-10",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50019911)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://deno.com/blog/cloudflare"
+  },
+  {
+    "title": "Lobbying",
+    "date": "2026-10-10",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50029630)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html"
+  },
+  {
+    "title": "REA Reverse – Engineer Anything",
+    "date": "2026-10-10",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50028275)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://rea.tools/"
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "date": "2026-10-10",
+    "category": "资讯",
+    "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+  },
+  {
+    "title": "Triple-A Minesweeper",
+    "date": "2026-10-10",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50022292)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://minesweeper.mikelacher.com/"
+  },
+  {
     "title": "Ben Affleck is an AI nerd, and the internet is impressed",
     "date": "2026-10-09",
     "category": "资讯",
