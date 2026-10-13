@@ -1,5 +1,53 @@
 [
   {
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "date": "2026-10-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50065692)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://arxiv.org/abs/2610.13928"
+  },
+  {
+    "title": "GLM-Legal",
+    "date": "2026-10-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50058507)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://z.ai/blog/glm-legal"
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "date": "2026-10-13",
+    "category": "资讯",
+    "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make thing...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+  },
+  {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "date": "2026-10-13",
+    "category": "资讯",
+    "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with hig...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+  },
+  {
+    "title": "The baffling intelligence of a single cell (2024)",
+    "date": "2026-10-13",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50041866)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://jsomers.net/e-coli-chemotaxis/"
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "date": "2026-10-13",
+    "category": "资讯",
+    "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+  },
+  {
     "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
     "date": "2026-10-12",
     "category": "资讯",
