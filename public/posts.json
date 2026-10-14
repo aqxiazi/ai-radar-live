@@ -1,5 +1,53 @@
 [
   {
+    "title": "Cerebras CEO says were nearing a future where everyone has a personal AI assistant at home",
+    "date": "2026-10-14",
+    "category": "资讯",
+    "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devi...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+  },
+  {
+    "title": "Gemini 4 Argon",
+    "date": "2026-10-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50073879)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://deepmind.google/models/gemini/"
+  },
+  {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "date": "2026-10-14",
+    "category": "资讯",
+    "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+  },
+  {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "date": "2026-10-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50054092)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "date": "2026-10-14",
+    "category": "资讯",
+    "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-10-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50077020)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://guitoro.com/"
+  },
+  {
     "title": "AI Models Can Provably Hide Arbitrary Capabilities",
     "date": "2026-10-13",
     "category": "热门",
@@ -886,14 +934,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=49915126)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://56k.rip/"
-  },
-  {
-    "title": "Gemini 4 Argon",
-    "date": "2026-10-01",
-    "category": "热门",
-    "description": "[Comments](https://news.ycombinator.com/item?id=49913571)...",
-    "source": "HackerNews Top",
-    "affiliateLink": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
   },
   {
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
