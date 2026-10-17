@@ -1,5 +1,61 @@
 [
   {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "date": "2026-10-17",
+    "category": "资讯",
+    "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+  },
+  {
+    "title": "Claude reveals ECDSA curve origins",
+    "date": "2026-10-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50122800)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.anthropic.com/research/ecdsa-curve-origins"
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "date": "2026-10-17",
+    "category": "资讯",
+    "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive clou...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+  },
+  {
+    "title": "Llama.cpp on a jailbroken PS5",
+    "date": "2026-10-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50122431)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/cobanov/PS5LM"
+  },
+  {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "date": "2026-10-17",
+    "category": "资讯",
+    "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there wa...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+  },
+  {
+    "title": "Tesla Roadster",
+    "date": "2026-10-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50112657)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.tesla.com/roadster"
+  },
+  {
+    "title": "Ultramarine 1 Flash",
+    "date": "2026-10-17",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50106747)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.paperinstruments.com/ultramarine"
+  },
+  {
     "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
     "date": "2026-10-16",
     "category": "资讯",
