@@ -1,5 +1,5 @@
 ---
-title: "Lean Now Ships with Verified Kernels"
+title: "Lean now ships with verified kernels"
 date: 2026-10-18
 category: "热门"
 description: "[Comments](https://news.ycombinator.com/item?id=50114758)..."
