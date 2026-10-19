@@ -1,5 +1,53 @@
 [
   {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "date": "2026-10-19",
+    "category": "资讯",
+    "description": "Anthropic said that it will commit 5% of its shares to the fund....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "date": "2026-10-19",
+    "category": "资讯",
+    "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking hor...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+  },
+  {
+    "title": "Hybrid Reasoning Agents",
+    "date": "2026-10-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50145337)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://arxiv.org/abs/2610.18861"
+  },
+  {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "date": "2026-10-19",
+    "category": "资讯",
+    "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+  },
+  {
+    "title": "There&#x27;s never been a better time to go into math (by",
+    "date": "2026-10-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50136150)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.youtube.com/watch?v=LKrwhjOI8Nc"
+  },
+  {
+    "title": "William Gibson and the trademarking of cyberspace",
+    "date": "2026-10-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50146625)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://colo.to/cyberspace.html"
+  },
+  {
     "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
     "date": "2026-10-18",
     "category": "资讯",
@@ -38,14 +86,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=50114758)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/"
-  },
-  {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "date": "2026-10-18",
-    "category": "资讯",
-    "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
   },
   {
     "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
