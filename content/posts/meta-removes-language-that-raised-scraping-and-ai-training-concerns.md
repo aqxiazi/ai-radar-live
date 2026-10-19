@@ -1,6 +1,6 @@
 ---
 title: "Meta removes language that raised scraping and AI training concerns"
-date: 2026-10-18
+date: 2026-10-19
 category: "资讯"
 description: "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web...."
 source: "TechCrunch AI"
