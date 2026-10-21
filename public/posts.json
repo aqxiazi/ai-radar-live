@@ -1,5 +1,77 @@
 [
   {
+    "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+    "date": "2026-10-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://agentitter.com/"
+  },
+  {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "date": "2026-10-21",
+    "category": "资讯",
+    "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the p...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+  },
+  {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "date": "2026-10-21",
+    "category": "资讯",
+    "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+  },
+  {
+    "title": "Blueprints, Not Prompts",
+    "date": "2026-10-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://mulgadc.com/blog/blueprints-not-prompts-tla-plus"
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflixs OpenAI hack documentary isnt accurate",
+    "date": "2026-10-21",
+    "category": "资讯",
+    "description": "Before you share the Netflix documentary AI Gone Rogue take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went f...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
+  },
+  {
+    "title": "In Hilbert space, all things are quantumly possible",
+    "date": "2026-10-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50175185)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-10-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50170593)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://permit.petercai.com/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-10-21",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/zhitongblog/unterm"
+  },
+  {
+    "title": "The Future of CSS",
+    "date": "2026-10-21",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50175070)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.joshwcomeau.com/css/interop-2027/"
+  },
+  {
     "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
     "date": "2026-10-20",
     "category": "AI",
