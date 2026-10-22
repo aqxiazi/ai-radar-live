@@ -1,5 +1,85 @@
 [
   {
+    "title": "AI agent on your notch, equipped with his own computer",
+    "date": "2026-10-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://notcho.si"
+  },
+  {
+    "title": "Ask HN",
+    "date": "2026-10-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=50191025"
+  },
+  {
+    "title": "Blackstones Jas Khaira says fears over AI-buildout debt are overblown",
+    "date": "2026-10-22",
+    "category": "资讯",
+    "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+  },
+  {
+    "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+    "date": "2026-10-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50190168)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552"
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "date": "2026-10-22",
+    "category": "资讯",
+    "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+  },
+  {
+    "title": "mitmproxy adds --emudhra option",
+    "date": "2026-10-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50189232)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
+  },
+  {
+    "title": "ML Drift",
+    "date": "2026-10-22",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026",
+    "date": "2026-10-22",
+    "category": "资讯",
+    "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrep...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+  },
+  {
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "date": "2026-10-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50190455)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf"
+  },
+  {
+    "title": "There isn&#x27;t an easy exploit for this PHP vulnerability",
+    "date": "2026-10-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50188948)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://eliastaylor.com/noexploit/"
+  },
+  {
     "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
     "date": "2026-10-21",
     "category": "AI",
