@@ -1,5 +1,53 @@
 [
   {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "date": "2026-10-23",
+    "category": "资讯",
+    "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+  },
+  {
+    "title": "Docker is weird",
+    "date": "2026-10-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50202681)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird"
+  },
+  {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "date": "2026-10-23",
+    "category": "资讯",
+    "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at th...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+  },
+  {
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "date": "2026-10-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50202217)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.anthropic.com/research/formal-verification"
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "date": "2026-10-23",
+    "category": "资讯",
+    "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+  },
+  {
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "date": "2026-10-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50195959)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://quad9.net/news/blog/au-revoir-france/"
+  },
+  {
     "title": "AI agent on your notch, equipped with his own computer",
     "date": "2026-10-22",
     "category": "AI",
