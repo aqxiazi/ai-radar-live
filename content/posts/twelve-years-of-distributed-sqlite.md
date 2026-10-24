@@ -1,5 +1,5 @@
 ---
-title: "Twelve Years of Distributed SQLite"
+title: "Twelve years of distributed SQLite"
 date: 2026-10-24
 category: "热门"
 description: "[Comments](https://news.ycombinator.com/item?id=50217500)..."

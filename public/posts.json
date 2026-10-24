@@ -1,5 +1,85 @@
 [
   {
+    "title": "Apple Music 404 Not Found",
+    "date": "2026-10-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50207910)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://music.apple.com/this-url-doesnt-exist"
+  },
+  {
+    "title": "DeepSeek Just Shook the AI Industry Again [video]",
+    "date": "2026-10-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=YX6QdIYVSgY"
+  },
+  {
+    "title": "EU Member States approve \\digital expropriation\\ for AI companies",
+    "date": "2026-10-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies"
+  },
+  {
+    "title": "Evolving Threat",
+    "date": "2026-10-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50216791)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
+  },
+  {
+    "title": "From Toast to Bessemer",
+    "date": "2026-10-24",
+    "category": "资讯",
+    "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of findin...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "date": "2026-10-24",
+    "category": "资讯",
+    "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a nap, and summersaulted on voice command....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+  },
+  {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "date": "2026-10-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50212065)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+  },
+  {
+    "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+    "date": "2026-10-24",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html"
+  },
+  {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "date": "2026-10-24",
+    "category": "资讯",
+    "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+  },
+  {
+    "title": "Twelve years of distributed SQLite",
+    "date": "2026-10-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50217500)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+  },
+  {
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
     "date": "2026-10-23",
     "category": "资讯",
