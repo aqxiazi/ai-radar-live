@@ -1,5 +1,53 @@
 [
   {
+    "title": "GitLab Security Incident",
+    "date": "2026-10-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50282544)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
+  },
+  {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "date": "2026-10-29",
+    "category": "资讯",
+    "description": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+  },
+  {
+    "title": "Microsoft just shared Azures actual revenue in dollars",
+    "date": "2026-10-29",
+    "category": "资讯",
+    "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the big...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "date": "2026-10-29",
+    "category": "资讯",
+    "description": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending Sept...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+  },
+  {
+    "title": "Qwenputer",
+    "date": "2026-10-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50282838)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://divagr.com/blog/qwenputer"
+  },
+  {
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "date": "2026-10-29",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50276998)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://nullpt.rs/fingerprinting-bioweapons"
+  },
+  {
     "title": "AICC",
     "date": "2026-10-28",
     "category": "AI",
