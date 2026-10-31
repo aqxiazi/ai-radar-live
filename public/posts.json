@@ -1,5 +1,101 @@
 [
   {
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "date": "2026-10-31",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50300683)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+  },
+  {
+    "title": "Cloudflare Turnstile solver library (no headless browser required)",
+    "date": "2026-10-31",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50277379)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/chris124567/cfsolve"
+  },
+  {
+    "title": "Free AI Learning Platform",
+    "date": "2026-10-31",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.aicertificationcouncil.com/"
+  },
+  {
+    "title": "How the built-in browsers in five AI coding tools broke basic browser rules",
+    "date": "2026-10-31",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html"
+  },
+  {
+    "title": "InstanStore – AI drafts products and sales pages for a creator store",
+    "date": "2026-10-31",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://instanstore.com/"
+  },
+  {
+    "title": "Intels stock crashes, knocking $12B from governments stake",
+    "date": "2026-10-31",
+    "category": "资讯",
+    "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+  },
+  {
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "date": "2026-10-31",
+    "category": "资讯",
+    "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+  },
+  {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "date": "2026-10-31",
+    "category": "资讯",
+    "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutt...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+  },
+  {
+    "title": "ResumeFitting – AI resume ATS gap analysis and keyword matching",
+    "date": "2026-10-31",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://resumefitting.com"
+  },
+  {
+    "title": "See how AI search reads a page and fix it in one prompt",
+    "date": "2026-10-31",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://lumi-geo.pages.dev/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-10-31",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50311686)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://tng.episodle.com/"
+  },
+  {
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "date": "2026-10-31",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+  },
+  {
     "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
     "date": "2026-10-30",
     "category": "AI",
