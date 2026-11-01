@@ -1,5 +1,101 @@
 [
   {
+    "title": "4 days left",
+    "date": "2026-11-01",
+    "category": "资讯",
+    "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and conne...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+  },
+  {
+    "title": "AI Made Me Homeless",
+    "date": "2026-11-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59"
+  },
+  {
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "date": "2026-11-01",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50320963)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
+  },
+  {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "date": "2026-11-01",
+    "category": "资讯",
+    "description": "Apple's new CEO defended the company's current position in the AI landscape....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+  },
+  {
+    "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "date": "2026-11-01",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50322173)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+  },
+  {
+    "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+    "date": "2026-11-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
+  },
+  {
+    "title": "HackerTube",
+    "date": "2026-11-01",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50319510)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://karpathy.bearblog.dev/hacker-tube/"
+  },
+  {
+    "title": "James Mickens' Talk",
+    "date": "2026-11-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=usZLo_9Jz54"
+  },
+  {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "date": "2026-11-01",
+    "category": "资讯",
+    "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+  },
+  {
+    "title": "Meridian",
+    "date": "2026-11-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://blakelapierre.substack.com/p/meridian-in-action-play-it-in-your"
+  },
+  {
+    "title": "TCP Use-After-Free",
+    "date": "2026-11-01",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50319143)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+  },
+  {
+    "title": "The AI boom spawns job market for data-center liaisons",
+    "date": "2026-11-01",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.semafor.com/article/10/30/2026/the-ai-boom-spawns-job-market-for-data-center-liaisons"
+  },
+  {
     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
     "date": "2026-10-31",
     "category": "热门",
