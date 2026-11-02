@@ -1,6 +1,6 @@
 ---
 title: "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’"
-date: 2026-11-01
+date: 2026-11-02
 category: "资讯"
 description: "Apple's new CEO defended the company's current position in the AI landscape...."
 source: "TechCrunch AI"
