@@ -1,5 +1,93 @@
 [
   {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "date": "2026-11-02",
+    "category": "资讯",
+    "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+  },
+  {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "date": "2026-11-02",
+    "category": "资讯",
+    "description": "Apple's new CEO defended the company's current position in the AI landscape....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+  },
+  {
+    "title": "Asking my AI teacher how to spell seventeen",
+    "date": "2026-11-02",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://twitter.com/huskirl/status/2116941001335947635"
+  },
+  {
+    "title": "F&#x2F;OSS Comics #13",
+    "date": "2026-11-02",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50332163)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
+  },
+  {
+    "title": "Midgarth Quest. Browser-Playable Mmorpg Written by AI",
+    "date": "2026-11-02",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://midgarth.quest/"
+  },
+  {
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "date": "2026-11-02",
+    "category": "资讯",
+    "description": "Data centers are deeply unpopular. But what if we called them something else?...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+  },
+  {
+    "title": "Postgres 19 is late because so many more bugs are being found now",
+    "date": "2026-11-02",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50312408)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-11-02",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/arkenforge/arken-core"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-11-02",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50326821)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://hackerbooks.org"
+  },
+  {
+    "title": "The Economic Paradox of AI-Generated Software",
+    "date": "2026-11-02",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://medium.com/@yassien/the-economic-paradox-of-ai-generated-software-93239b25bf1c"
+  },
+  {
+    "title": "What happens when the AI money loop breaks?",
+    "date": "2026-11-02",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://fvdge.com/AI_Circularity_Stress_Lab.html"
+  },
+  {
     "title": "4 days left",
     "date": "2026-11-01",
     "category": "资讯",
@@ -22,14 +110,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=50320963)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
-  },
-  {
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "date": "2026-11-01",
-    "category": "资讯",
-    "description": "Apple's new CEO defended the company's current position in the AI landscape....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
   },
   {
     "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
