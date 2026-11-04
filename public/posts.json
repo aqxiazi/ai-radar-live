@@ -1,5 +1,85 @@
 [
   {
+    "title": "Anthropic is working on a system to prove AI models identity",
+    "date": "2026-11-04",
+    "category": "资讯",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+  },
+  {
+    "title": "C++26 Disapproved",
+    "date": "2026-11-04",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50360164)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
+  },
+  {
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "date": "2026-11-04",
+    "category": "资讯",
+    "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environment...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+  },
+  {
+    "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+    "date": "2026-11-04",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50361154)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients"
+  },
+  {
+    "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
+    "date": "2026-11-04",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/Coding-Dev-Tools/engraphis"
+  },
+  {
+    "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
+    "date": "2026-11-04",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/"
+  },
+  {
+    "title": "I built a free local AI co-processor in Rust. AXON Developer Edition",
+    "date": "2026-11-04",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://jrabbass.github.io/axon/"
+  },
+  {
+    "title": "Jelly Sheet",
+    "date": "2026-11-04",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50361268)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://mrdoob.github.io/codevember-2026/01/"
+  },
+  {
+    "title": "Ted Schleins Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "date": "2026-11-04",
+    "category": "资讯",
+    "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment v...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+  },
+  {
+    "title": "The Internals of PostgreSQL",
+    "date": "2026-11-04",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50358702)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.interdb.jp/pg/index.html"
+  },
+  {
     "title": "Apple may try to increase revenue by doingsomething with third-party AI apps",
     "date": "2026-11-03",
     "category": "资讯",
