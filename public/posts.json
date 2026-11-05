@@ -1,5 +1,77 @@
 [
   {
+    "title": "A thousand fewer paths to root",
+    "date": "2026-11-05",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50372929)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+  },
+  {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "date": "2026-11-05",
+    "category": "资讯",
+    "description": "Data center opposition crossed party lines in Tuesday’s midterms....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+  },
+  {
+    "title": "AI PACs spent millions trying to shape Congress — heres how they fared",
+    "date": "2026-11-05",
+    "category": "资讯",
+    "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "date": "2026-11-05",
+    "category": "资讯",
+    "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+  },
+  {
+    "title": "Images 2.6",
+    "date": "2026-11-05",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50372945)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://openai.com/index/introducing-images-2-6/"
+  },
+  {
+    "title": "Open-weight AI models can exploit the patch gap",
+    "date": "2026-11-05",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://epoch.ai/publications/open-weight-models-patch-gap"
+  },
+  {
+    "title": "Rack Community",
+    "date": "2026-11-05",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://github.com/ohhbeehave35-commits/rack-community"
+  },
+  {
+    "title": "Residential proxies detected on White House network",
+    "date": "2026-11-05",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50371246)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+  },
+  {
+    "title": "What's the worst bug an AI coding agent silently introduced into your code?",
+    "date": "2026-11-05",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=50374984"
+  },
+  {
     "title": "Anthropic is working on a system to prove AI models identity",
     "date": "2026-11-04",
     "category": "资讯",
