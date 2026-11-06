@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI and the Future of the Product Role",
+    "date": "2026-11-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.svpg.com/ai-and-the-future-of-the-product-role/"
+  },
+  {
+    "title": "Airbnb says its launching an AI travel agent in the first half of 2027",
+    "date": "2026-11-06",
+    "category": "资讯",
+    "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+  },
+  {
+    "title": "Are We Cooked? CMU Faculty on AI, Careers and Learning [video]",
+    "date": "2026-11-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.youtube.com/watch?v=U2DDKdUvq6k"
+  },
+  {
+    "title": "Claude Code sends your email address to websites",
+    "date": "2026-11-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50385272)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/anthropics/claude-code/issues/107757"
+  },
+  {
+    "title": "How accurately did science fiction stories predict AI?",
+    "date": "2026-11-06",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://jamesyu.org/science-fiction-predictions-of-ai/"
+  },
+  {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "date": "2026-11-06",
+    "category": "资讯",
+    "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+  },
+  {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "date": "2026-11-06",
+    "category": "资讯",
+    "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastruc...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+  },
+  {
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "date": "2026-11-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50384233)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+  },
+  {
+    "title": "sshole",
+    "date": "2026-11-06",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50378228)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://sshhole.com"
+  },
+  {
     "title": "A thousand fewer paths to root",
     "date": "2026-11-05",
     "category": "热门",
