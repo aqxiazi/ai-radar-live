@@ -1,5 +1,61 @@
 [
   {
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "date": "2026-11-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50397429)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://hightouch.com/blog/llm-judges-identity-resolution"
+  },
+  {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "date": "2026-11-07",
+    "category": "资讯",
+    "description": "The deal highlights the challenges of developing massive AI data centers....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+  },
+  {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "date": "2026-11-07",
+    "category": "资讯",
+    "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacki...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+  },
+  {
+    "title": "I Toured Unitree&#x27;s Factory. I&#x27;m More Bullish on the West",
+    "date": "2026-11-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50400597)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://josef.cn/blog/unitree"
+  },
+  {
+    "title": "Libghostty 1.0",
+    "date": "2026-11-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50399933)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://mitchellh.com/writing/libghostty-1-0"
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "date": "2026-11-07",
+    "category": "资讯",
+    "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+  },
+  {
+    "title": "Tesla to wind down Cybertruck production",
+    "date": "2026-11-07",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50391456)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+  },
+  {
     "title": "AI and the Future of the Product Role",
     "date": "2026-11-06",
     "category": "AI",
