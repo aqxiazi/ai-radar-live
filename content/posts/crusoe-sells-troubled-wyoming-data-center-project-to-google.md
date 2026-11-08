@@ -1,6 +1,6 @@
 ---
 title: "Crusoe sells troubled Wyoming data center project to Google"
-date: 2026-11-07
+date: 2026-11-08
 category: "资讯"
 description: "The deal highlights the challenges of developing massive AI data centers...."
 source: "TechCrunch AI"
