@@ -1,19 +1,67 @@
 [
   {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "date": "2026-11-08",
+    "category": "资讯",
+    "description": "On Equity, we unpacked what the midterms mean for the tech industry....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+  },
+  {
+    "title": "Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; exposes passwords in 1,122 public GitHub files",
+    "date": "2026-11-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50407882)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+  },
+  {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "date": "2026-11-08",
+    "category": "资讯",
+    "description": "The deal highlights the challenges of developing massive AI data centers....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+  },
+  {
+    "title": "Goodbye Claude, Hello Pi",
+    "date": "2026-11-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50410107)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://caleb.software/posts/claude-to-pi.html"
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "date": "2026-11-08",
+    "category": "资讯",
+    "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidi...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+  },
+  {
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "date": "2026-11-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50406670)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.bosscher.ch/posts/openstick/"
+  },
+  {
+    "title": "ZapFast",
+    "date": "2026-11-08",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50409855)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/crmne/zapfast"
+  },
+  {
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "date": "2026-11-07",
     "category": "热门",
     "description": "[Comments](https://news.ycombinator.com/item?id=50397429)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://hightouch.com/blog/llm-judges-identity-resolution"
-  },
-  {
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "date": "2026-11-07",
-    "category": "资讯",
-    "description": "The deal highlights the challenges of developing massive AI data centers....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
   },
   {
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
