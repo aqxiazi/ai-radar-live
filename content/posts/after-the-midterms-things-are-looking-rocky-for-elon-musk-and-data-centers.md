@@ -1,6 +1,6 @@
 ---
 title: "After the midterms, things are looking rocky for Elon Musk and data centers"
-date: 2026-11-08
+date: 2026-11-09
 category: "资讯"
 description: "On Equity, we unpacked what the midterms mean for the tech industry...."
 source: "TechCrunch AI"

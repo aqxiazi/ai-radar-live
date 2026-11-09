@@ -1,6 +1,6 @@
 ---
 title: "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
-date: 2026-11-08
+date: 2026-11-09
 category: "资讯"
 description: "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidi..."
 source: "TechCrunch AI"
