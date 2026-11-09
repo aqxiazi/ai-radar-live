@@ -1,11 +1,59 @@
 [
   {
+    "title": "A Critique of GPUI",
+    "date": "2026-11-09",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50420857)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.zortax.de/posts/a-critique-of-gpui"
+  },
+  {
     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "category": "资讯",
     "description": "On Equity, we unpacked what the midterms mean for the tech industry....",
     "source": "TechCrunch AI",
     "affiliateLink": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+  },
+  {
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "date": "2026-11-09",
+    "category": "资讯",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+  },
+  {
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "date": "2026-11-09",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50418176)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://ketchup3d.github.io/app/"
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "date": "2026-11-09",
+    "category": "资讯",
+    "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidi...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+  },
+  {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "date": "2026-11-09",
+    "category": "资讯",
+    "description": "In a memo to the company, Huang admitted that he had an affair....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+  },
+  {
+    "title": "RIP, Harvest",
+    "date": "2026-11-09",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50420035)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://aphyr.com/posts/427-rip-harvest"
   },
   {
     "title": "Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; exposes passwords in 1,122 public GitHub files",
@@ -30,14 +78,6 @@
     "description": "[Comments](https://news.ycombinator.com/item?id=50410107)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://caleb.software/posts/claude-to-pi.html"
-  },
-  {
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "date": "2026-11-08",
-    "category": "资讯",
-    "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidi...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
   },
   {
     "title": "What I run on my $10 USD OpenStick homelab",
