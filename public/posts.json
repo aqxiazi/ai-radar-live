@@ -1,5 +1,101 @@
 [
   {
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "date": "2026-11-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50459745)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.mcmillen.dev/sigbovik/"
+  },
+  {
+    "title": "AI is getting smarter. Are we thinking better?",
+    "date": "2026-11-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.daybranch.com/"
+  },
+  {
+    "title": "AWS emulator",
+    "date": "2026-11-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50456631)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/aws/aws-emulator"
+  },
+  {
+    "title": "Job Finding and Unemployment in the Age of AI",
+    "date": "2026-11-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai"
+  },
+  {
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "date": "2026-11-12",
+    "category": "资讯",
+    "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-11-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://novabuddyai.com"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal",
+    "date": "2026-11-12",
+    "category": "资讯",
+    "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+    "title": "Tim Peters has died",
+    "date": "2026-11-12",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50450488)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
+  },
+  {
+    "title": "What benefit does a San Francisco HQ offer if you are not a frontier AI lab?",
+    "date": "2026-11-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=50463705"
+  },
+  {
+    "title": "What happens to the AI industry if Nvidia falters",
+    "date": "2026-11-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://finshots.in/archive/what-happens-to-ai-industry-if-nvidia-falters/"
+  },
+  {
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "date": "2026-11-12",
+    "category": "资讯",
+    "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+  },
+  {
+    "title": "Why AI Coding Agents Lose Context After the PR, and How to Keep It",
+    "date": "2026-11-12",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.harness.io/blog/why-ai-coding-agents-lose-context-after-pr"
+  },
+  {
     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
     "date": "2026-11-11",
     "category": "热门",
