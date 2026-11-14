@@ -1,5 +1,77 @@
 [
   {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "date": "2026-11-14",
+    "category": "资讯",
+    "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind Chinas most powerful AI models — uh-oh, Jensen!",
+    "date": "2026-11-14",
+    "category": "资讯",
+    "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+  },
+  {
+    "title": "FAA issues national ground stop – lifted 4.5 hours later",
+    "date": "2026-11-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50489641)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+  },
+  {
+    "title": "Ggml v1.0.0",
+    "date": "2026-11-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50493062)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+  },
+  {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "date": "2026-11-14",
+    "category": "资讯",
+    "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuat...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+  },
+  {
+    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "date": "2026-11-14",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50493251)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+  },
+  {
+    "title": "ShieldFont – Protect human muffins by poisoning unauthorized AI starfish",
+    "date": "2026-11-14",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://shieldfont.org/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-11-14",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://openos.space"
+  },
+  {
+    "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+    "date": "2026-11-14",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://entropicdrift.com/blog/mkdocs-drift-automation/"
+  },
+  {
     "title": "Democrats launch Nvidia investigation, write scathing letter on Huangs scheme with Trump",
     "date": "2026-11-13",
     "category": "资讯",
