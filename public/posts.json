@@ -1,5 +1,85 @@
 [
   {
+    "title": "BrowserDo·Embiody – a browser built for AI agents",
+    "date": "2026-11-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://embiody.com/blog/embiody-0-9-preview/"
+  },
+  {
+    "title": "Confessions of an AI Skeptic",
+    "date": "2026-11-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://daniel-azuma.com/blog/2026-11-12-ai-skeptic/"
+  },
+  {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "date": "2026-11-15",
+    "category": "资讯",
+    "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+  },
+  {
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "date": "2026-11-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50501594)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://retrocomputing.stackexchange.com/questions/17957"
+  },
+  {
+    "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+    "date": "2026-11-15",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d"
+  },
+  {
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "date": "2026-11-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50499017)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.crissyfield.de/research/lovable-en/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-11-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50504072)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/matheuzgomes/gawain"
+  },
+  {
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "date": "2026-11-15",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50500963)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.spacex.com/launches/starship-flight-15"
+  },
+  {
+    "title": "The AI graveyard",
+    "date": "2026-11-15",
+    "category": "资讯",
+    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy super app launch, here's a look at the AI projects that shut down or missed expectations....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+  },
+  {
+    "title": "Where was Nvidias security team?",
+    "date": "2026-11-15",
+    "category": "资讯",
+    "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+  },
+  {
     "title": "AI agent startup LangChain hits $3B valuation",
     "date": "2026-11-14",
     "category": "资讯",
@@ -1390,14 +1470,6 @@
     "description": "点击查看原文以获取详细内容...",
     "source": "HackerNews AI",
     "affiliateLink": "https://ai.jagular.io"
-  },
-  {
-    "title": "The AI graveyard",
-    "date": "2026-10-25",
-    "category": "资讯",
-    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy super app launch, here's a look at the AI projects that shut down or missed expectations....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
   },
   {
     "title": "The Goose Programming Language",
