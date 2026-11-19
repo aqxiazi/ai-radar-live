@@ -1,5 +1,77 @@
 [
   {
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is unpatchable",
+    "date": "2026-11-19",
+    "category": "资讯",
+    "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+  },
+  {
+    "title": "Elon Musk says ousting Jensen Huang is like kicking Michael Jordan off your team",
+    "date": "2026-11-19",
+    "category": "资讯",
+    "description": "“I don’t think \\[Huang is\\] disloyal to the United States, Musk said....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+  },
+  {
+    "title": "Gemini 4 Neon",
+    "date": "2026-11-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50552424)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "date": "2026-11-19",
+    "category": "资讯",
+    "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rathe...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+  },
+  {
+    "title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "date": "2026-11-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50554038)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+  },
+  {
+    "title": "Readycode.ai – Multi AI Platform",
+    "date": "2026-11-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://readycode.ai/"
+  },
+  {
+    "title": "Unauthenticated remote code execution in Nginx",
+    "date": "2026-11-19",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50547374)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+  },
+  {
+    "title": "Vals AI – Compare AI models across real-world benchmarks",
+    "date": "2026-11-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://www.vals.ai/comparison"
+  },
+  {
+    "title": "Will Wright's next simulation will use AI to mine content from your memories",
+    "date": "2026-11-19",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
+  },
+  {
     "title": "Google&#x27;s AI answers reducing search traffic by 40%",
     "date": "2026-11-18",
     "category": "热门",
