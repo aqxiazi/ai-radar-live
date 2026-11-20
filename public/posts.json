@@ -1,5 +1,61 @@
 [
   {
+    "title": "Anthropics 7 founders cashed out nearly $2B in record-breaking IPO",
+    "date": "2026-11-20",
+    "category": "资讯",
+    "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "date": "2026-11-20",
+    "category": "资讯",
+    "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+  },
+  {
+    "title": "GIMP now has UI tests",
+    "date": "2026-11-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50569985)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/"
+  },
+  {
+    "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+    "date": "2026-11-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50570479)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://grapheneos.social/@GrapheneOS/117645038299496084"
+  },
+  {
+    "title": "Metas new Muse Charm device may cost $300",
+    "date": "2026-11-20",
+    "category": "资讯",
+    "description": "Meta hasn't denied the reporting from The Information, saying only that it will have more to share soon about its upcoming AI wearable....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+  },
+  {
+    "title": "OpenSSL",
+    "date": "2026-11-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50569226)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/openssl/openssl/pull/33652"
+  },
+  {
+    "title": "Postgres 19 Repack",
+    "date": "2026-11-20",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50569516)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/"
+  },
+  {
     "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is unpatchable",
     "date": "2026-11-19",
     "category": "资讯",
