@@ -1,5 +1,5 @@
 ---
-title: "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs"
+title: "Toyota, Nissan, and Honda to standardize parts to lower costs"
 date: 2026-11-22
 category: "热门"
 description: "[Comments](https://news.ycombinator.com/item?id=50596133)..."

@@ -1,5 +1,53 @@
 [
   {
+    "title": "A tale of two Nvidias",
+    "date": "2026-11-22",
+    "category": "资讯",
+    "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "date": "2026-11-22",
+    "category": "资讯",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  },
+  {
+    "title": "Lean verification of the Riemann Hypothesis",
+    "date": "2026-11-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50589618)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+  },
+  {
+    "title": "Pill to treat pancreatic cancer hailed as &#x27;biggest breakthrough in decades&#x27;",
+    "date": "2026-11-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50582069)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+  },
+  {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "date": "2026-11-22",
+    "category": "资讯",
+    "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+  },
+  {
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "date": "2026-11-22",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50596133)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+  },
+  {
     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
     "date": "2026-11-21",
     "category": "资讯",
