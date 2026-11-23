@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ask HN",
+    "date": "2026-11-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://news.ycombinator.com/item?id=50608154"
+  },
+  {
+    "title": "Free alternative TV network built from the Internet Archive&#x27;s forgotten videos",
+    "date": "2026-11-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50606192)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://spelunkr.tv"
+  },
+  {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "date": "2026-11-23",
+    "category": "资讯",
+    "description": "Three significant backers share what gave them conviction to bet billions on Anthropic....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+  },
+  {
+    "title": "Is selling an AI version of your face to this startup the future of Hollywood?",
+    "date": "2026-11-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+  },
+  {
+    "title": "Masullo on the Riemann Hypothesis",
+    "date": "2026-11-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50598441)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
+  },
+  {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "date": "2026-11-23",
+    "category": "资讯",
+    "description": "To establish a speed limit on AI development, you need to agree on how to measure speed....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+  },
+  {
+    "title": "Show HN",
+    "date": "2026-11-23",
+    "category": "AI",
+    "description": "点击查看原文以获取详细内容...",
+    "source": "HackerNews AI",
+    "affiliateLink": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model"
+  },
+  {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "date": "2026-11-23",
+    "category": "资讯",
+    "description": "Journalist Paris Marx unpacks his new book Hyperscale....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+  },
+  {
+    "title": "XNU Linux",
+    "date": "2026-11-23",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50607261)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://github.com/AFK-surf/xnulinux"
+  },
+  {
     "title": "A tale of two Nvidias",
     "date": "2026-11-22",
     "category": "资讯",
