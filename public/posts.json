@@ -1,5 +1,61 @@
 [
   {
+    "title": "2035 Came Early",
+    "date": "2026-11-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50624497)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://fzakaria.com/2026/11/23/2035-came-early"
+  },
+  {
+    "title": "AMD EPYC Zen 6 vs. Zen 1 Performance",
+    "date": "2026-11-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50624061)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+  },
+  {
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "date": "2026-11-24",
+    "category": "资讯",
+    "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  },
+  {
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "date": "2026-11-24",
+    "category": "资讯",
+    "description": "The mistake has been corrected, Elon Musk chimed in....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+  },
+  {
+    "title": "Ladybird is now in alpha",
+    "date": "2026-11-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50614249)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://ladybird.org/posts/alpha/"
+  },
+  {
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "date": "2026-11-24",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50620349)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://stalw.art/blog/microsoft-exchange-replacement/"
+  },
+  {
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "date": "2026-11-24",
+    "category": "资讯",
+    "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+  },
+  {
     "title": "Ask HN",
     "date": "2026-11-23",
     "category": "AI",
