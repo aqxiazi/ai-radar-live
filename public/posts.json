@@ -1,5 +1,53 @@
 [
   {
+    "title": "1Password Security Incident",
+    "date": "2026-11-26",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50644817)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://1password.com/blog/update-on-nov-2026-security-incident"
+  },
+  {
+    "title": "Holy shit holy shit holy shit holy shit",
+    "date": "2026-11-26",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50646108)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://scottaaronson.blog/?p=10379"
+  },
+  {
+    "title": "Jensen Huang broke Nvidias code of conduct, and his employees may not forget it",
+    "date": "2026-11-26",
+    "category": "资讯",
+    "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+  },
+  {
+    "title": "Lions&#x27; Commentary on Unix",
+    "date": "2026-11-26",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50651719)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "date": "2026-11-26",
+    "category": "资讯",
+    "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+  },
+  {
+    "title": "SP considers Nvidia credit downgrade over governance and key man risks",
+    "date": "2026-11-26",
+    "category": "资讯",
+    "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+  },
+  {
     "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
     "date": "2026-11-25",
     "category": "热门",
