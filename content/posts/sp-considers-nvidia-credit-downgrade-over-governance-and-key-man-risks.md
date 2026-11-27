@@ -1,6 +1,6 @@
 ---
 title: "SP considers Nvidia credit downgrade over governance and key man risks"
-date: 2026-11-26
+date: 2026-11-27
 category: "资讯"
 description: "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating...."
 source: "TechCrunch AI"
