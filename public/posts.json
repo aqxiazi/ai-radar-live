@@ -1,5 +1,61 @@
 [
   {
+    "title": "Google&#x27;s DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "date": "2026-11-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50672565)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://research.google/blog/supercharging-transformer-residual-connections/"
+  },
+  {
+    "title": "Grand Theft Auto VI proves why efficiency isnt a virtue",
+    "date": "2026-11-28",
+    "category": "资讯",
+    "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+  },
+  {
+    "title": "Loom seamlessly combines weaving, knitting and braiding",
+    "date": "2026-11-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50632052)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding"
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "date": "2026-11-28",
+    "category": "资讯",
+    "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep ...",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+  },
+  {
+    "title": "SP considers Nvidia credit downgrade over governance and key man risks",
+    "date": "2026-11-28",
+    "category": "资讯",
+    "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating....",
+    "source": "TechCrunch AI",
+    "affiliateLink": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+  },
+  {
+    "title": "The Balatro Timeline",
+    "date": "2026-11-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50657346)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://localthunk.com/blog/balatro-timeline-3aarh"
+  },
+  {
+    "title": "Unkernel",
+    "date": "2026-11-28",
+    "category": "热门",
+    "description": "[Comments](https://news.ycombinator.com/item?id=50674218)...",
+    "source": "HackerNews Top",
+    "affiliateLink": "https://unkernel.dev"
+  },
+  {
     "title": "AI made self-hosting fun again",
     "date": "2026-11-27",
     "category": "热门",
@@ -8,36 +64,12 @@
     "affiliateLink": "https://janlukas.blog/posts/ai-self-hosting"
   },
   {
-    "title": "Grand Theft Auto VI proves why efficiency isnt a virtue",
-    "date": "2026-11-27",
-    "category": "资讯",
-    "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
-  },
-  {
     "title": "Hard Drive pricing has gotten bad",
     "date": "2026-11-27",
     "category": "热门",
     "description": "[Comments](https://news.ycombinator.com/item?id=50661646)...",
     "source": "HackerNews Top",
     "affiliateLink": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
-  },
-  {
-    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-    "date": "2026-11-27",
-    "category": "资讯",
-    "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep ...",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
-  },
-  {
-    "title": "SP considers Nvidia credit downgrade over governance and key man risks",
-    "date": "2026-11-27",
-    "category": "资讯",
-    "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating....",
-    "source": "TechCrunch AI",
-    "affiliateLink": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
   },
   {
     "title": "The group chat where your AI talks behind your back",
