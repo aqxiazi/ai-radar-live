@@ -1,6 +1,6 @@
 ---
 title: "Grand Theft Auto VI proves why efficiency isnt a virtue"
-date: 2026-11-27
+date: 2026-11-28
 category: "资讯"
 description: "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all..."
 source: "TechCrunch AI"

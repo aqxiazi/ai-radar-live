@@ -1,6 +1,6 @@
 ---
 title: "Nvidia hits pause on chip shipments to Southeast Asia"
-date: 2026-11-27
+date: 2026-11-28
 category: "资讯"
 description: "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep ..."
 source: "TechCrunch AI"
